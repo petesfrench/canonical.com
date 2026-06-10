@@ -1,0 +1,3743 @@
+{
+  "metadata": {
+    "document_title": "Copy of canonical.com/ceph/support",
+    "document_id": "1C2Rfz3P3YybgCpqM_-y_Ih8hvpyiRSkZHDLwO8Cpu4M",
+    "extraction_time": "2026-06-10T16:56:03.749781917+02:00",
+    "extraction_duration": 5057313557,
+    "processing_duration": 5060306507,
+    "total_duration": 5060306507
+  },
+  "summary": {
+    "total_suggestions": 89,
+    "total_files": 15,
+    "by_file": {
+      "BLOG": {
+        "insertions": 3,
+        "deletions": 3,
+        "replacements": 0
+      },
+      "Build with automations": {
+        "insertions": 2,
+        "deletions": 2,
+        "replacements": 0
+      },
+      "DIVIDED SECTION": {
+        "insertions": 18,
+        "deletions": 18,
+        "replacements": 0
+      },
+      "LOGO SECTION": {
+        "insertions": 0,
+        "deletions": 36,
+        "replacements": 0
+      },
+      "NEWSLETTER SIGNUP": {
+        "insertions": 1,
+        "deletions": 2,
+        "replacements": 0
+      },
+      "Navigating this document": {
+        "insertions": 1,
+        "deletions": 1,
+        "replacements": 0
+      },
+      "TABLE": {
+        "insertions": 1,
+        "deletions": 1,
+        "replacements": 0
+      }
+    },
+    "by_type": {
+      "insert": 26,
+      "delete": 63,
+      "replace": 0
+    }
+  },
+  "file_mappings": {
+    "BLOG": {
+      "suggested_file": "BLOG",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 1,
+      "suggestion_ids": [
+        "suggest.lhmadvi4kovu"
+      ]
+    },
+    "Build with automations": {
+      "suggested_file": "Build with automations",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 2,
+      "suggestion_ids": [
+        "suggest.va7ijz9uih4d",
+        "suggest.b68oarncjyn5"
+      ]
+    },
+    "CALL TO ACTION BLOCK": {
+      "suggested_file": "CALL TO ACTION BLOCK",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 3,
+      "suggestion_ids": [
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2"
+      ]
+    },
+    "CALL TO ACTION SECTION (CTA)": {
+      "suggested_file": "CALL TO ACTION SECTION (CTA)",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 3,
+      "suggestion_ids": [
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.2c3939ydmxi1"
+      ]
+    },
+    "DIVIDED SECTION": {
+      "suggested_file": "DIVIDED SECTION",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 2,
+      "suggestion_ids": [
+        "suggest.2c3939ydmxi1",
+        "suggest.swgu6woyxj5g"
+      ]
+    },
+    "Introduction": {
+      "suggested_file": "Introduction",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 1,
+      "suggestion_ids": [
+        "suggest.swgu6woyxj5g"
+      ]
+    },
+    "LINKED LOGO SECTION": {
+      "suggested_file": "LINKED LOGO SECTION",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 7,
+      "suggestion_ids": [
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2"
+      ]
+    },
+    "LOGO EQUAL HEIGHTS": {
+      "suggested_file": "LOGO EQUAL HEIGHTS",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 10,
+      "suggestion_ids": [
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2"
+      ]
+    },
+    "LOGO SECTION": {
+      "suggested_file": "LOGO SECTION",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 3,
+      "suggestion_ids": [
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2"
+      ]
+    },
+    "NEWSLETTER SIGNUP": {
+      "suggested_file": "NEWSLETTER SIGNUP",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 3,
+      "suggestion_ids": [
+        "suggest.j0wpzqm7fft5",
+        "suggest.lhmadvi4kovu",
+        "suggest.q3xr3z3m1oqp"
+      ]
+    },
+    "Navigating this document": {
+      "suggested_file": "Navigating this document",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 11,
+      "suggestion_ids": [
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.r9m1h3clqnd7",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2",
+        "suggest.8ovjan6bz4p2"
+      ]
+    },
+    "PRICING BLOCK": {
+      "suggested_file": "PRICING BLOCK",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 5,
+      "suggestion_ids": [
+        "suggest.swgu6woyxj5g",
+        "suggest.swgu6woyxj5g",
+        "suggest.swgu6woyxj5g",
+        "suggest.swgu6woyxj5g",
+        "suggest.2c3939ydmxi1"
+      ]
+    },
+    "Page builder": {
+      "suggested_file": "Page builder",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 5,
+      "suggestion_ids": [
+        "suggest.swgu6woyxj5g",
+        "suggest.2c3939ydmxi1",
+        "suggest.2c3939ydmxi1",
+        "suggest.swgu6woyxj5g",
+        "suggest.swgu6woyxj5g"
+      ]
+    },
+    "QUOTE WRAPPER": {
+      "suggested_file": "QUOTE WRAPPER",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 1,
+      "suggestion_ids": [
+        "suggest.8ovjan6bz4p2"
+      ]
+    },
+    "TABLE": {
+      "suggested_file": "TABLE",
+      "source_reference": "Copy of canonical.com/ceph/support",
+      "suggestion_count": 2,
+      "suggestion_ids": [
+        "suggest.lhmadvi4kovu",
+        "suggest.1efaumymt77m"
+      ]
+    }
+  },
+  "actionable_suggestions": [
+    {
+      "id": "suggest.va7ijz9uih4d",
+      "file": "Build with automations",
+      "anchor": {
+        "preceding_text": "n screenshots to view the templated section used on a live site. \nDon’t overth",
+        "following_text": "  via the ribbon menu:\n\n\n\nThere are two automations under 🛠️Webpage templat"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "n screenshots to view the templated section used on a live site. \nDon’t overth  via the ribbon menu:\n\n\n\nThere are two automations under 🛠️Webpage templat",
+        "text_after_change": "n screenshots to view the templated section used on a live site. \nDon’t overth   via the ribbon menu:\n\n\n\nThere are two automations under 🛠️Webpage templat"
+      }
+    },
+    {
+      "id": "suggest.va7ijz9uih4d",
+      "file": "Build with automations",
+      "anchor": {
+        "preceding_text": " screenshots to view the templated section used on a live site. \nDon’t overthi",
+        "following_text": "via the ribbon menu:\n\n\n\nThere are two automations under 🛠️Webpage template "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": " screenshots to view the templated section used on a live site. \nDon’t overthi  via the ribbon menu:\n\n\n\nThere are two automations under 🛠️Webpage template ",
+        "text_after_change": " screenshots to view the templated section used on a live site. \nDon’t overthivia the ribbon menu:\n\n\n\nThere are two automations under 🛠️Webpage template "
+      }
+    },
+    {
+      "id": "suggest.lhmadvi4kovu",
+      "file": "BLOG",
+      "anchor": {
+        "preceding_text": "r ends up. You can often rely on a simple [noun] + [verb] structure. For example",
+        "following_text": "  \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to co"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "r ends up. You can often rely on a simple [noun] + [verb] structure. For example  \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to co",
+        "text_after_change": "r ends up. You can often rely on a simple [noun] + [verb] structure. For example   \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to co"
+      }
+    },
+    {
+      "id": "suggest.lhmadvi4kovu",
+      "file": "BLOG",
+      "anchor": {
+        "preceding_text": " ends up. You can often rely on a simple [noun] + [verb] structure. For example:",
+        "following_text": "\nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to comp"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": " ends up. You can often rely on a simple [noun] + [verb] structure. For example:  \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to comp",
+        "text_after_change": " ends up. You can often rely on a simple [noun] + [verb] structure. For example:\nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to comp"
+      }
+    },
+    {
+      "id": "suggest.lhmadvi4kovu",
+      "file": "BLOG",
+      "anchor": {
+        "preceding_text": "r CTA, we can make it a link instead of a button.\n\nBest practice: Limit each blo",
+        "following_text": "  \nBreak down the product into its key features or components. List them out so "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "r CTA, we can make it a link instead of a button.\n\nBest practice: Limit each blo  \nBreak down the product into its key features or components. List them out so ",
+        "text_after_change": "r CTA, we can make it a link instead of a button.\n\nBest practice: Limit each blo   \nBreak down the product into its key features or components. List them out so "
+      }
+    },
+    {
+      "id": "suggest.lhmadvi4kovu",
+      "file": "BLOG",
+      "anchor": {
+        "preceding_text": " CTA, we can make it a link instead of a button.\n\nBest practice: Limit each bloc",
+        "following_text": "\nBreak down the product into its key features or components. List them out so it"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": " CTA, we can make it a link instead of a button.\n\nBest practice: Limit each bloc  \nBreak down the product into its key features or components. List them out so it",
+        "text_after_change": " CTA, we can make it a link instead of a button.\n\nBest practice: Limit each bloc\nBreak down the product into its key features or components. List them out so it"
+      }
+    },
+    {
+      "id": "suggest.lhmadvi4kovu",
+      "file": "BLOG",
+      "anchor": {
+        "preceding_text": "ts, check marks, or numbers to list items.\n\nNote: Don’t overthink the componen",
+        "following_text": "  blogs with a tag, please add the tag ID (a 4-digit number) which you can find "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "ts, check marks, or numbers to list items.\n\nNote: Don’t overthink the componen  blogs with a tag, please add the tag ID (a 4-digit number) which you can find ",
+        "text_after_change": "ts, check marks, or numbers to list items.\n\nNote: Don’t overthink the componen   blogs with a tag, please add the tag ID (a 4-digit number) which you can find "
+      }
+    },
+    {
+      "id": "suggest.lhmadvi4kovu",
+      "file": "BLOG",
+      "anchor": {
+        "preceding_text": "s, check marks, or numbers to list items.\n\nNote: Don’t overthink the component",
+        "following_text": "blogs with a tag, please add the tag ID (a 4-digit number) which you can find on"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "s, check marks, or numbers to list items.\n\nNote: Don’t overthink the component  blogs with a tag, please add the tag ID (a 4-digit number) which you can find on",
+        "text_after_change": "s, check marks, or numbers to list items.\n\nNote: Don’t overthink the componentblogs with a tag, please add the tag ID (a 4-digit number) which you can find on"
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "ng to match the template to Vanilla, then DELETE the instructions.\nClick on scre",
+        "following_text": " doc.\nBuild with automations\nThis template has automations you can access   via "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "ng to match the template to Vanilla, then DELETE the instructions.\nClick on scre doc.\nBuild with automations\nThis template has automations you can access   via ",
+        "text_after_change": "ng to match the template to Vanilla, then DELETE the instructions.\nClick on scre  doc.\nBuild with automations\nThis template has automations you can access   via "
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "g to match the template to Vanilla, then DELETE the instructions.\nClick on scree",
+        "following_text": "oc.\nBuild with automations\nThis template has automations you can access   via th"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "g to match the template to Vanilla, then DELETE the instructions.\nClick on scree  oc.\nBuild with automations\nThis template has automations you can access   via th",
+        "text_after_change": "g to match the template to Vanilla, then DELETE the instructions.\nClick on screeoc.\nBuild with automations\nThis template has automations you can access   via th"
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "e about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optiona",
+        "following_text": " this to display 1 option or compare 2-4 options. \nA minimum of 3 columns with s"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "e about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optiona this to display 1 option or compare 2-4 options. \nA minimum of 3 columns with s",
+        "text_after_change": "e about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optiona  this to display 1 option or compare 2-4 options. \nA minimum of 3 columns with s"
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": " about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optional",
+        "following_text": "his to display 1 option or compare 2-4 options. \nA minimum of 3 columns with sub"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": " about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optional  his to display 1 option or compare 2-4 options. \nA minimum of 3 columns with sub",
+        "text_after_change": " about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optionalhis to display 1 option or compare 2-4 options. \nA minimum of 3 columns with sub"
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "max)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (",
+        "following_text": "s ideal\nEach column can have 4 items: image, subheading, supporting paragraph, a"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "max)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (s ideal\nEach column can have 4 items: image, subheading, supporting paragraph, a",
+        "text_after_change": "max)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA ( s ideal\nEach column can have 4 items: image, subheading, supporting paragraph, a"
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "ax)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (o",
+        "following_text": "ideal\nEach column can have 4 items: image, subheading, supporting paragraph, and"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "ax)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (o  ideal\nEach column can have 4 items: image, subheading, supporting paragraph, and",
+        "text_after_change": "ax)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (oideal\nEach column can have 4 items: image, subheading, supporting paragraph, and"
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "re bullet points\n\n\n[Related logo, image or video (optional) - please add alt tex",
+        "following_text": "ideal\nYou can include code snippets as a part of the steps\n\n\nTABBED SECTION\nUse "
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "re bullet points\n\n\n[Related logo, image or video (optional) - please add alt texideal\nYou can include code snippets as a part of the steps\n\n\nTABBED SECTION\nUse ",
+        "text_after_change": "re bullet points\n\n\n[Related logo, image or video (optional) - please add alt tex ideal\nYou can include code snippets as a part of the steps\n\n\nTABBED SECTION\nUse "
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "e bullet points\n\n\n[Related logo, image or video (optional) - please add alt text",
+        "following_text": "eal\nYou can include code snippets as a part of the steps\n\n\nTABBED SECTION\nUse th"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "e bullet points\n\n\n[Related logo, image or video (optional) - please add alt text  eal\nYou can include code snippets as a part of the steps\n\n\nTABBED SECTION\nUse th",
+        "text_after_change": "e bullet points\n\n\n[Related logo, image or video (optional) - please add alt texteal\nYou can include code snippets as a part of the steps\n\n\nTABBED SECTION\nUse th"
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": ", such as savings, performance or adoption. \n\nBest practice: Make sure every fac",
+        "following_text": "  (required) - 100 characters\n\nSubheading (required) - 100 characters\n\nSubheadin"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": ", such as savings, performance or adoption. \n\nBest practice: Make sure every fac  (required) - 100 characters\n\nSubheading (required) - 100 characters\n\nSubheadin",
+        "text_after_change": ", such as savings, performance or adoption. \n\nBest practice: Make sure every fac   (required) - 100 characters\n\nSubheading (required) - 100 characters\n\nSubheadin"
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": " such as savings, performance or adoption. \n\nBest practice: Make sure every fact",
+        "following_text": "(required) - 100 characters\n\nSubheading (required) - 100 characters\n\nSubheading "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": " such as savings, performance or adoption. \n\nBest practice: Make sure every fact  (required) - 100 characters\n\nSubheading (required) - 100 characters\n\nSubheading ",
+        "text_after_change": " such as savings, performance or adoption. \n\nBest practice: Make sure every fact(required) - 100 characters\n\nSubheading (required) - 100 characters\n\nSubheading "
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "(8 words max)\nYes / No / Price / Text\nYes / No / Price / Text\nFeature 3… (8 wo",
+        "following_text": "  - 60 characters\n\n\n\nSupporting paragraph(s), 600 characters maximum.\n\n\n\nLogo im"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "(8 words max)\nYes / No / Price / Text\nYes / No / Price / Text\nFeature 3… (8 wo  - 60 characters\n\n\n\nSupporting paragraph(s), 600 characters maximum.\n\n\n\nLogo im",
+        "text_after_change": "(8 words max)\nYes / No / Price / Text\nYes / No / Price / Text\nFeature 3… (8 wo   - 60 characters\n\n\n\nSupporting paragraph(s), 600 characters maximum.\n\n\n\nLogo im"
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "8 words max)\nYes / No / Price / Text\nYes / No / Price / Text\nFeature 3… (8 wor",
+        "following_text": "- 60 characters\n\n\n\nSupporting paragraph(s), 600 characters maximum.\n\n\n\nLogo imag"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "8 words max)\nYes / No / Price / Text\nYes / No / Price / Text\nFeature 3… (8 wor  - 60 characters\n\n\n\nSupporting paragraph(s), 600 characters maximum.\n\n\n\nLogo imag",
+        "text_after_change": "8 words max)\nYes / No / Price / Text\nYes / No / Price / Text\nFeature 3… (8 wor- 60 characters\n\n\n\nSupporting paragraph(s), 600 characters maximum.\n\n\n\nLogo imag"
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": " few concise sentences to explain how to complete the action. (300 chars max)\n\n\n",
+        "following_text": "  Summarize the first step/action, 160 characters\n\n\n\nCode snippet\n\n\n\n\n\ninsert"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": " few concise sentences to explain how to complete the action. (300 chars max)\n\n\n  Summarize the first step/action, 160 characters\n\n\n\nCode snippet\n\n\n\n\n\ninsert",
+        "text_after_change": " few concise sentences to explain how to complete the action. (300 chars max)\n\n\n   Summarize the first step/action, 160 characters\n\n\n\nCode snippet\n\n\n\n\n\ninsert"
+      }
+    },
+    {
+      "id": "suggest.swgu6woyxj5g",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": " few concise sentences to explain how to complete the action. (300 chars max)\n\n\n",
+        "following_text": "Summarize the first step/action, 160 characters\n\n\n\nCode snippet\n\n\n\n\n\ninsert c"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": " few concise sentences to explain how to complete the action. (300 chars max)\n\n\n  Summarize the first step/action, 160 characters\n\n\n\nCode snippet\n\n\n\n\n\ninsert c",
+        "text_after_change": " few concise sentences to explain how to complete the action. (300 chars max)\n\n\nSummarize the first step/action, 160 characters\n\n\n\nCode snippet\n\n\n\n\n\ninsert c"
+      }
+    },
+    {
+      "id": "suggest.b68oarncjyn5",
+      "file": "Build with automations",
+      "anchor": {
+        "preceding_text": "ample, within the bubble), stage in the funnel and personas.\nContent checks\n\nChe",
+        "following_text": "ighlighted in red. \n\nWe specify character limits to make sure your content is pr"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Change"
+      },
+      "verification": {
+        "text_before_change": "ample, within the bubble), stage in the funnel and personas.\nContent checks\n\nCheighlighted in red. \n\nWe specify character limits to make sure your content is pr",
+        "text_after_change": "ample, within the bubble), stage in the funnel and personas.\nContent checks\n\nCheChangeighlighted in red. \n\nWe specify character limits to make sure your content is pr"
+      }
+    },
+    {
+      "id": "suggest.b68oarncjyn5",
+      "file": "Build with automations",
+      "anchor": {
+        "preceding_text": " within the bubble), stage in the funnel and personas.\nContent checks\n\nCheck tha",
+        "following_text": "ed in red. \n\nWe specify character limits to make sure your content is properly d"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Discover"
+      },
+      "verification": {
+        "text_before_change": " within the bubble), stage in the funnel and personas.\nContent checks\n\nCheck thaDiscovered in red. \n\nWe specify character limits to make sure your content is properly d",
+        "text_after_change": " within the bubble), stage in the funnel and personas.\nContent checks\n\nCheck thaed in red. \n\nWe specify character limits to make sure your content is properly d"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "ast one highly related keyword and is a good description of what people should e",
+        "following_text": "\n\nStart here - learn how to use this template to make a copy doc (you are curren"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "TIERED LIST"
+      },
+      "verification": {
+        "text_before_change": "ast one highly related keyword and is a good description of what people should eTIERED LIST\n\nStart here - learn how to use this template to make a copy doc (you are curren",
+        "text_after_change": "ast one highly related keyword and is a good description of what people should e\n\nStart here - learn how to use this template to make a copy doc (you are curren"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "hly related keyword and is a good description of what people should expect when ",
+        "following_text": "arn how to use this template to make a copy doc (you are currently here)\nExample"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " pattern template"
+      },
+      "verification": {
+        "text_before_change": "hly related keyword and is a good description of what people should expect when  pattern templatearn how to use this template to make a copy doc (you are currently here)\nExample",
+        "text_after_change": "hly related keyword and is a good description of what people should expect when arn how to use this template to make a copy doc (you are currently here)\nExample"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "scription of what people should expect when reading the post. While Google tends",
+        "following_text": " to make a copy doc (you are currently here)\nExample page sections - review live"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "separator"
+      },
+      "verification": {
+        "text_before_change": "scription of what people should expect when reading the post. While Google tendsseparator to make a copy doc (you are currently here)\nExample page sections - review live",
+        "text_after_change": "scription of what people should expect when reading the post. While Google tends to make a copy doc (you are currently here)\nExample page sections - review live"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "uld expect when reading the post. While Google tends to build its own descriptio",
+        "following_text": "mple page sections - review live examples of each section and best practices\nPag"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[col:1, ch:70][col:5, ch:900]"
+      },
+      "verification": {
+        "text_before_change": "uld expect when reading the post. While Google tends to build its own descriptio[col:1, ch:70][col:5, ch:900]mple page sections - review live examples of each section and best practices\nPag",
+        "text_after_change": "uld expect when reading the post. While Google tends to build its own descriptiomple page sections - review live examples of each section and best practices\nPag"
+      }
+    },
+    {
+      "id": "suggest.r9m1h3clqnd7",
+      "file": "Navigating this document",
+      "anchor": {
+        "preceding_text": "t. While Google tends to build its own description for pages, the meta descripti",
+        "following_text": "s - review live examples of each section and best practices\nPage sections librar"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Example change "
+      },
+      "verification": {
+        "text_before_change": "t. While Google tends to build its own description for pages, the meta descriptis - review live examples of each section and best practices\nPage sections librar",
+        "text_after_change": "t. While Google tends to build its own description for pages, the meta descriptiExample change s - review live examples of each section and best practices\nPage sections librar"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "t. While Google tends to build its own description for pages, the meta descripti",
+        "following_text": "s - review live examples of each section and best practices\nPage sections librar"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Example change "
+      },
+      "verification": {
+        "text_before_change": "t. While Google tends to build its own description for pages, the meta descriptiExample change s - review live examples of each section and best practices\nPage sections librar",
+        "text_after_change": "t. While Google tends to build its own description for pages, the meta descriptis - review live examples of each section and best practices\nPage sections librar"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": " tends to build its own description for pages, the meta description is still hig",
+        "following_text": " each section and best practices\nPage sections library - access the full list of"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Services for Canonical Ceph"
+      },
+      "verification": {
+        "text_before_change": " tends to build its own description for pages, the meta description is still higServices for Canonical Ceph each section and best practices\nPage sections library - access the full list of",
+        "text_after_change": " tends to build its own description for pages, the meta description is still hig each section and best practices\nPage sections library - access the full list of"
+      }
+    },
+    {
+      "id": "suggest.r9m1h3clqnd7",
+      "file": "Navigating this document",
+      "anchor": {
+        "preceding_text": " tends to build its own description for pages, the meta description is still hig",
+        "following_text": " each section and best practices\nPage sections library - access the full list of"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Services for Canonical Ceph"
+      },
+      "verification": {
+        "text_before_change": " tends to build its own description for pages, the meta description is still higServices for Canonical Ceph each section and best practices\nPage sections library - access the full list of",
+        "text_after_change": " tends to build its own description for pages, the meta description is still hig each section and best practices\nPage sections library - access the full list of"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": " for pages, the meta description is still highly irrelevant when sharing on soci",
+        "following_text": "sing our automations \nYour page - add and edit your page’s content \nBest pract"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "From the initial design and hardware selection, to ongoing software support and management, Canonical’s offerings cover  all types of Ceph deployments on Ubuntu. Available 24/7/365, by telephone and ticket."
+      },
+      "verification": {
+        "text_before_change": " for pages, the meta description is still highly irrelevant when sharing on sociFrom the initial design and hardware selection, to ongoing software support and management, Canonical’s offerings cover  all types of Ceph deployments on Ubuntu. Available 24/7/365, by telephone and ticket.sing our automations \nYour page - add and edit your page’s content \nBest pract",
+        "text_after_change": " for pages, the meta description is still highly irrelevant when sharing on socising our automations \nYour page - add and edit your page’s content \nBest pract"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "k is shared. \n\n\n\n\nMETADATA TABLE\n*Page title (60 characters max)\n\n*Page descript",
+        "following_text": "our page - add and edit your page’s content \nBest practices and links\nPre-work"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[col:5, ch:60]"
+      },
+      "verification": {
+        "text_before_change": "k is shared. \n\n\n\n\nMETADATA TABLE\n*Page title (60 characters max)\n\n*Page descript[col:5, ch:60]our page - add and edit your page’s content \nBest practices and links\nPre-work",
+        "text_after_change": "k is shared. \n\n\n\n\nMETADATA TABLE\n*Page title (60 characters max)\n\n*Page descriptour page - add and edit your page’s content \nBest practices and links\nPre-work"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "TA TABLE\n*Page title (60 characters max)\n\n*Page description (160 characters max)",
+        "following_text": "’s content \nBest practices and links\nPre-work check\nConsider the context of yo"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Discover Canonical Ceph"
+      },
+      "verification": {
+        "text_before_change": "TA TABLE\n*Page title (60 characters max)\n\n*Page description (160 characters max)Discover Canonical Ceph’s content \nBest practices and links\nPre-work check\nConsider the context of yo",
+        "text_after_change": "TA TABLE\n*Page title (60 characters max)\n\n*Page description (160 characters max)’s content \nBest practices and links\nPre-work check\nConsider the context of yo"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "acters max)\n\n*Page description (160 characters max)\n\n*Current or suggested page ",
+        "following_text": "re-work check\nConsider the context of your page and make sure your content suits"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[col:3, ch:50][col:5, ch:300]"
+      },
+      "verification": {
+        "text_before_change": "acters max)\n\n*Page description (160 characters max)\n\n*Current or suggested page [col:3, ch:50][col:5, ch:300]re-work check\nConsider the context of your page and make sure your content suits",
+        "text_after_change": "acters max)\n\n*Page description (160 characters max)\n\n*Current or suggested page re-work check\nConsider the context of your page and make sure your content suits"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "(160 characters max)\n\n*Current or suggested page URL\n\nReference page(s) *New\nIf ",
+        "following_text": "e context of your page and make sure your content suits the context of your othe"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Design and delivery"
+      },
+      "verification": {
+        "text_before_change": "(160 characters max)\n\n*Current or suggested page URL\n\nReference page(s) *New\nIf Design and deliverye context of your page and make sure your content suits the context of your othe",
+        "text_after_change": "(160 characters max)\n\n*Current or suggested page URL\n\nReference page(s) *New\nIf e context of your page and make sure your content suits the context of your othe"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "Current or suggested page URL\n\nReference page(s) *New\nIf there is a page with a ",
+        "following_text": "em\nUse US spelling, active voice, and plain language whenever possible\nUse bulle"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Canonical offers fixed price Ceph consulting packages. Our basic package gets your Ceph cluster up and running in a standardized configuration. Alternatively, for a tailored deployment architecture which meets your unique requirements, choose our plus offering. "
+      },
+      "verification": {
+        "text_before_change": "Current or suggested page URL\n\nReference page(s) *New\nIf there is a page with a Canonical offers fixed price Ceph consulting packages. Our basic package gets your Ceph cluster up and running in a standardized configuration. Alternatively, for a tailored deployment architecture which meets your unique requirements, choose our plus offering. em\nUse US spelling, active voice, and plain language whenever possible\nUse bulle",
+        "text_after_change": "Current or suggested page URL\n\nReference page(s) *New\nIf there is a page with a em\nUse US spelling, active voice, and plain language whenever possible\nUse bulle"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "an existing page, please add a link and specify where the link should be placed.",
+        "following_text": "plain language whenever possible\nUse bulleting and chunking so content is easier"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[col:3, ch:50][col:5, ch:300]"
+      },
+      "verification": {
+        "text_before_change": "an existing page, please add a link and specify where the link should be placed.[col:3, ch:50][col:5, ch:300]plain language whenever possible\nUse bulleting and chunking so content is easier",
+        "text_after_change": "an existing page, please add a link and specify where the link should be placed.plain language whenever possible\nUse bulleting and chunking so content is easier"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": " and specify where the link should be placed.\n\nOr, request changes to the Canoni",
+        "following_text": "e whenever possible\nUse bulleting and chunking so content is easier to scan\nAdd "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Support"
+      },
+      "verification": {
+        "text_before_change": " and specify where the link should be placed.\n\nOr, request changes to the CanoniSupporte whenever possible\nUse bulleting and chunking so content is easier to scan\nAdd ",
+        "text_after_change": " and specify where the link should be placed.\n\nOr, request changes to the Canonie whenever possible\nUse bulleting and chunking so content is easier to scan\nAdd "
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "y where the link should be placed.\n\nOr, request changes to the Canonical.com mai",
+        "following_text": "ure to save in the copy docs folder\n\u000bQuick links\nBrowse available images from th"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "24/7/365 on demand enterprise Ceph support. Get guaranteed SLAs, including knowledge base access, troubleshooting, and bug fixing, to ensure peace of mind for your Ceph deployments."
+      },
+      "verification": {
+        "text_before_change": "y where the link should be placed.\n\nOr, request changes to the Canonical.com mai24/7/365 on demand enterprise Ceph support. Get guaranteed SLAs, including knowledge base access, troubleshooting, and bug fixing, to ensure peace of mind for your Ceph deployments.ure to save in the copy docs folder\n\u000bQuick links\nBrowse available images from th",
+        "text_after_change": "y where the link should be placed.\n\nOr, request changes to the Canonical.com maiure to save in the copy docs folder\n\u000bQuick links\nBrowse available images from th"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "av or bubble navigation, please indicate path. For example, All Canonical \u003e Prod",
+        "following_text": " docs folder\n\u000bQuick links\nBrowse available images from the image library, add th"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[col:5, ch:60]"
+      },
+      "verification": {
+        "text_before_change": "av or bubble navigation, please indicate path. For example, All Canonical \u003e Prod[col:5, ch:60] docs folder\n\u000bQuick links\nBrowse available images from the image library, add th",
+        "text_after_change": "av or bubble navigation, please indicate path. For example, All Canonical \u003e Prod docs folder\n\u000bQuick links\nBrowse available images from the image library, add th"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "n, please indicate path. For example, All Canonical \u003e Products \u003e AI/ML.\nMain act",
+        "following_text": "rowse available images from the image library, add them to the copy doc, include"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Explore support \u003e"
+      },
+      "verification": {
+        "text_before_change": "n, please indicate path. For example, All Canonical \u003e Products \u003e AI/ML.\nMain actExplore support \u003erowse available images from the image library, add them to the copy doc, include",
+        "text_after_change": "n, please indicate path. For example, All Canonical \u003e Products \u003e AI/ML.\nMain actrowse available images from the image library, add them to the copy doc, include"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "or example, All Canonical \u003e Products \u003e AI/ML.\nMain action for users to take on t",
+        "following_text": "library, add them to the copy doc, include the asset manager link\nCreate a new f"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[col:3, ch:50][col:5, ch:300]"
+      },
+      "verification": {
+        "text_before_change": "or example, All Canonical \u003e Products \u003e AI/ML.\nMain action for users to take on t[col:3, ch:50][col:5, ch:300]library, add them to the copy doc, include the asset manager link\nCreate a new f",
+        "text_after_change": "or example, All Canonical \u003e Products \u003e AI/ML.\nMain action for users to take on tlibrary, add them to the copy doc, include the asset manager link\nCreate a new f"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "ts \u003e AI/ML.\nMain action for users to take on the page \nExamples: To download whi",
+        "following_text": "he copy doc, include the asset manager link\nCreate a new form using the form tem"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Managed services"
+      },
+      "verification": {
+        "text_before_change": "ts \u003e AI/ML.\nMain action for users to take on the page \nExamples: To download whiManaged serviceshe copy doc, include the asset manager link\nCreate a new form using the form tem",
+        "text_after_change": "ts \u003e AI/ML.\nMain action for users to take on the page \nExamples: To download whihe copy doc, include the asset manager link\nCreate a new form using the form tem"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "ion for users to take on the page \nExamples: To download whitepaper, to contact ",
+        "following_text": " a request and link the ticket in the webpage copy doc\nNew design patterns: Subm"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Fully managed storage as a service, based on Ceph. Managed services covers operations and maintenance, with 24/7 monitoring, incident management, capacity planning, and upgrades."
+      },
+      "verification": {
+        "text_before_change": "ion for users to take on the page \nExamples: To download whitepaper, to contact Fully managed storage as a service, based on Ceph. Managed services covers operations and maintenance, with 24/7 monitoring, incident management, capacity planning, and upgrades. a request and link the ticket in the webpage copy doc\nNew design patterns: Subm",
+        "text_after_change": "ion for users to take on the page \nExamples: To download whitepaper, to contact  a request and link the ticket in the webpage copy doc\nNew design patterns: Subm"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "own)\n\nPage type (choose from drop down)\n\nStage in the funnel\n\n*Page own",
+        "following_text": " ticket in the webpage copy doc\nNew design patterns: Submit a request\n\nIf you ha"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[col:5, ch:60]"
+      },
+      "verification": {
+        "text_before_change": "own)\n\nPage type (choose from drop down)\n\nStage in the funnel\n\n*Page own[col:5, ch:60] ticket in the webpage copy doc\nNew design patterns: Submit a request\n\nIf you ha",
+        "text_after_change": "own)\n\nPage type (choose from drop down)\n\nStage in the funnel\n\n*Page own ticket in the webpage copy doc\nNew design patterns: Submit a request\n\nIf you ha"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "se from drop down)\n\nStage in the funnel\n\n*Page owner (writer and departmen",
+        "following_text": "design patterns: Submit a request\n\nIf you have any questions or would like to wo"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Explore managed services \u003e"
+      },
+      "verification": {
+        "text_before_change": "se from drop down)\n\nStage in the funnel\n\n*Page owner (writer and departmenExplore managed services \u003edesign patterns: Submit a request\n\nIf you have any questions or would like to wo",
+        "text_after_change": "se from drop down)\n\nStage in the funnel\n\n*Page owner (writer and departmendesign patterns: Submit a request\n\nIf you have any questions or would like to wo"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "funnel\n\n*Page owner (writer and department)\n\n\nPlease indicate approvals ne",
+        "following_text": "you have any questions or would like to work through the page together, please r"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[col:3, ch:50][col:5, ch:300]"
+      },
+      "verification": {
+        "text_before_change": "funnel\n\n*Page owner (writer and department)\n\n\nPlease indicate approvals ne[col:3, ch:50][col:5, ch:300]you have any questions or would like to work through the page together, please r",
+        "text_after_change": "funnel\n\n*Page owner (writer and department)\n\n\nPlease indicate approvals neyou have any questions or would like to work through the page together, please r"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "department)\n\n\nPlease indicate approvals needed before the page goes into deve",
+        "following_text": "would like to work through the page together, please reach out to UX designers o"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Firefighting support"
+      },
+      "verification": {
+        "text_before_change": "department)\n\n\nPlease indicate approvals needed before the page goes into deveFirefighting supportwould like to work through the page together, please reach out to UX designers o",
+        "text_after_change": "department)\n\n\nPlease indicate approvals needed before the page goes into devewould like to work through the page together, please reach out to UX designers o"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "indicate approvals needed before the page goes into development: \nog:Image *N",
+        "following_text": "ge together, please reach out to UX designers on the Sites team  or on the ~Cont"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Firefighting support offers a"
+      },
+      "verification": {
+        "text_before_change": "indicate approvals needed before the page goes into development: \nog:Image *NFirefighting support offers age together, please reach out to UX designers on the Sites team  or on the ~Cont",
+        "text_after_change": "indicate approvals needed before the page goes into development: \nog:Image *Nge together, please reach out to UX designers on the Sites team  or on the ~Cont"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "fore the page goes into development: \nog:Image *New\nPlease include a link to ",
+        "following_text": "10 business days for new web page requests.\n\n\n\n\n\n balanced, use the same volume "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " bridge between self-management with troubleshooting support, and a managed service. Get access to on-call engineers to assist with the most critical problems"
+      },
+      "verification": {
+        "text_before_change": "fore the page goes into development: \nog:Image *New\nPlease include a link to  bridge between self-management with troubleshooting support, and a managed service. Get access to on-call engineers to assist with the most critical problems10 business days for new web page requests.\n\n\n\n\n\n balanced, use the same volume ",
+        "text_after_change": "fore the page goes into development: \nog:Image *New\nPlease include a link to 10 business days for new web page requests.\n\n\n\n\n\n balanced, use the same volume "
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": " them as necessary.\nFor developers, to be filled in by Sites visual designers: L",
+        "following_text": " business days for new web page requests.\n\n\n\n\n\nalanced, use the same volume of c"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": ". "
+      },
+      "verification": {
+        "text_before_change": " them as necessary.\nFor developers, to be filled in by Sites visual designers: L.  business days for new web page requests.\n\n\n\n\n\nalanced, use the same volume of c",
+        "text_after_change": " them as necessary.\nFor developers, to be filled in by Sites visual designers: L business days for new web page requests.\n\n\n\n\n\nalanced, use the same volume of c"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "cessary.\nFor developers, to be filled in by Sites visual designers: Link to asse",
+        "following_text": "web page requests.\n\n\n\n\n\nolume of content for each column\nDon’t overthink it, w"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[col:5, ch:60]"
+      },
+      "verification": {
+        "text_before_change": "cessary.\nFor developers, to be filled in by Sites visual designers: Link to asse[col:5, ch:60]web page requests.\n\n\n\n\n\nolume of content for each column\nDon’t overthink it, w",
+        "text_after_change": "cessary.\nFor developers, to be filled in by Sites visual designers: Link to asseweb page requests.\n\n\n\n\n\nolume of content for each column\nDon’t overthink it, w"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "s, to be filled in by Sites visual designers: Link to asset manager tag\n \n\nHero\n",
+        "following_text": " overthink it, we’ll choose the best layout based on the content\n\n\n\n\n\nLOGO SEC"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Explore firefighting support \u003e"
+      },
+      "verification": {
+        "text_before_change": "s, to be filled in by Sites visual designers: Link to asset manager tag\n \n\nHero\nExplore firefighting support \u003e overthink it, we’ll choose the best layout based on the content\n\n\n\n\n\nLOGO SEC",
+        "text_after_change": "s, to be filled in by Sites visual designers: Link to asset manager tag\n \n\nHero\n overthink it, we’ll choose the best layout based on the content\n\n\n\n\n\nLOGO SEC"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "esigners: Link to asset manager tag\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this",
+        "following_text": " layout based on the content\n\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple log"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[col:3, ch:50][col:5, ch:300]"
+      },
+      "verification": {
+        "text_before_change": "esigners: Link to asset manager tag\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this[col:3, ch:50][col:5, ch:300] layout based on the content\n\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple log",
+        "text_after_change": "esigners: Link to asset manager tag\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this layout based on the content\n\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple log"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this only at the top of a page, to make",
+        "following_text": "\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple logos without linking them.\nIntr"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Security and compliance"
+      },
+      "verification": {
+        "text_before_change": "\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this only at the top of a page, to makeSecurity and compliance\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple logos without linking them.\nIntr",
+        "text_after_change": "\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this only at the top of a page, to make\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple logos without linking them.\nIntr"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "TRUCTIONS\nUse this only at the top of a page, to make a strong statement about a",
+        "following_text": "m.\nIntroduce the logos with a brief headline (required) and a short paragraph\nWo"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Make your systems more secure and simplify compliance with Ubuntu Pro. Get u"
+      },
+      "verification": {
+        "text_before_change": "TRUCTIONS\nUse this only at the top of a page, to make a strong statement about aMake your systems more secure and simplify compliance with Ubuntu Pro. Get um.\nIntroduce the logos with a brief headline (required) and a short paragraph\nWo",
+        "text_after_change": "TRUCTIONS\nUse this only at the top of a page, to make a strong statement about am.\nIntroduce the logos with a brief headline (required) and a short paragraph\nWo"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": " a product, service, etc. and show why it’s helpful to the user. \n\nDepending o",
+        "following_text": "rks best with 8 logos maximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with "
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "p to 15 years of security maintenance for all artifacts used in Canonical Ceph. "
+      },
+      "verification": {
+        "text_before_change": " a product, service, etc. and show why it’s helpful to the user. \n\nDepending op to 15 years of security maintenance for all artifacts used in Canonical Ceph. rks best with 8 logos maximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with ",
+        "text_after_change": " a product, service, etc. and show why it’s helpful to the user. \n\nDepending orks best with 8 logos maximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with "
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "e type, the Visual team will split the content by 25/75 or 50/50 across the page",
+        "following_text": "aximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with quotes.\nInclude the sam"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "[col:5, ch:60]"
+      },
+      "verification": {
+        "text_before_change": "e type, the Visual team will split the content by 25/75 or 50/50 across the page[col:5, ch:60]aximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with quotes.\nInclude the sam",
+        "text_after_change": "e type, the Visual team will split the content by 25/75 or 50/50 across the pageaximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with quotes.\nInclude the sam"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "will split the content by 25/75 or 50/50 across the page.\n\nCalls to action (CTAs",
+        "following_text": "to add social proof with quotes.\nInclude the same source sections for each quote"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "Learn about Ubuntu Pro \u003e"
+      },
+      "verification": {
+        "text_before_change": "will split the content by 25/75 or 50/50 across the page.\n\nCalls to action (CTAsLearn about Ubuntu Pro \u003eto add social proof with quotes.\nInclude the same source sections for each quote",
+        "text_after_change": "will split the content by 25/75 or 50/50 across the page.\n\nCalls to action (CTAsto add social proof with quotes.\nInclude the same source sections for each quote"
+      }
+    },
+    {
+      "id": "suggest.8ovjan6bz4p2",
+      "file": "LOGO SECTION",
+      "anchor": {
+        "preceding_text": "or 50/50 across the page.\n\nCalls to action (CTAs) direct users to take action. T",
+        "following_text": "cial proof with quotes.\nInclude the same source sections for each quote\n\nNEWSLET"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "\n"
+      },
+      "verification": {
+        "text_before_change": "or 50/50 across the page.\n\nCalls to action (CTAs) direct users to take action. T\ncial proof with quotes.\nInclude the same source sections for each quote\n\nNEWSLET",
+        "text_after_change": "or 50/50 across the page.\n\nCalls to action (CTAs) direct users to take action. Tcial proof with quotes.\nInclude the same source sections for each quote\n\nNEWSLET"
+      }
+    },
+    {
+      "id": "suggest.j0wpzqm7fft5",
+      "file": "NEWSLETTER SIGNUP",
+      "anchor": {
+        "preceding_text": " the user ends up. You can often rely on a simple [noun] + [verb] structure. For",
+        "following_text": "r page.   \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse th"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "-"
+      },
+      "verification": {
+        "text_before_change": " the user ends up. You can often rely on a simple [noun] + [verb] structure. Forr page.   \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse th",
+        "text_after_change": " the user ends up. You can often rely on a simple [noun] + [verb] structure. For-r page.   \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse th"
+      }
+    },
+    {
+      "id": "suggest.j0wpzqm7fft5",
+      "file": "NEWSLETTER SIGNUP",
+      "anchor": {
+        "preceding_text": "the user ends up. You can often rely on a simple [noun] + [verb] structure. For ",
+        "following_text": " page.   \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse thi"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": " "
+      },
+      "verification": {
+        "text_before_change": "the user ends up. You can often rely on a simple [noun] + [verb] structure. For   page.   \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse thi",
+        "text_after_change": "the user ends up. You can often rely on a simple [noun] + [verb] structure. For  page.   \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse thi"
+      }
+    },
+    {
+      "id": "suggest.q3xr3z3m1oqp",
+      "file": "NEWSLETTER SIGNUP",
+      "anchor": {
+        "preceding_text": "simple [noun] + [verb] structure. For example: ‘Contact us’ or ‘Download U",
+        "following_text": "gnup relates to\n\n\nTABLE\nUse this to compare small units such as price or ‘yes/"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "coverage"
+      },
+      "verification": {
+        "text_before_change": "simple [noun] + [verb] structure. For example: ‘Contact us’ or ‘Download Ucoveragegnup relates to\n\n\nTABLE\nUse this to compare small units such as price or ‘yes/",
+        "text_after_change": "simple [noun] + [verb] structure. For example: ‘Contact us’ or ‘Download Ugnup relates to\n\n\nTABLE\nUse this to compare small units such as price or ‘yes/"
+      }
+    },
+    {
+      "id": "suggest.1efaumymt77m",
+      "file": "TABLE",
+      "anchor": {
+        "preceding_text": "r CTA, we can make it a link instead of a button.\n\nBest practice: Limit each blo",
+        "following_text": "own the product into its key features or components. List them out so it’s cle"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": "Access to p"
+      },
+      "verification": {
+        "text_before_change": "r CTA, we can make it a link instead of a button.\n\nBest practice: Limit each bloown the product into its key features or components. List them out so it’s cle",
+        "text_after_change": "r CTA, we can make it a link instead of a button.\n\nBest practice: Limit each bloAccess to pown the product into its key features or components. List them out so it’s cle"
+      }
+    },
+    {
+      "id": "suggest.1efaumymt77m",
+      "file": "TABLE",
+      "anchor": {
+        "preceding_text": "an make it a link instead of a button.\n\nBest practice: Limit each block to two C",
+        "following_text": "wn the product into its key features or components. List them out so it’s clea"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "P"
+      },
+      "verification": {
+        "text_before_change": "an make it a link instead of a button.\n\nBest practice: Limit each block to two CPwn the product into its key features or components. List them out so it’s clea",
+        "text_after_change": "an make it a link instead of a button.\n\nBest practice: Limit each block to two Cwn the product into its key features or components. List them out so it’s clea"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "\nNavigation *New\nIndicate how a user navigates to the page without a direct URL.",
+        "following_text": "personas.\n\nCopy doc checks\nCheck your content matches the Copy Style Guide\nSpell"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "\nNavigation *New\nIndicate how a user navigates to the page without a direct URL.personas.\n\nCopy doc checks\nCheck your content matches the Copy Style Guide\nSpell",
+        "text_after_change": "\nNavigation *New\nIndicate how a user navigates to the page without a direct URL. personas.\n\nCopy doc checks\nCheck your content matches the Copy Style Guide\nSpell"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "Navigation *New\nIndicate how a user navigates to the page without a direct URL. ",
+        "following_text": "rsonas.\n\nCopy doc checks\nCheck your content matches the Copy Style Guide\nSpell o"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "Navigation *New\nIndicate how a user navigates to the page without a direct URL.   rsonas.\n\nCopy doc checks\nCheck your content matches the Copy Style Guide\nSpell o",
+        "text_after_change": "Navigation *New\nIndicate how a user navigates to the page without a direct URL. rsonas.\n\nCopy doc checks\nCheck your content matches the Copy Style Guide\nSpell o"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "x] [Secondary CTA (optional) - 3 words max for a button, 5 words max for a link]",
+        "following_text": "orting paragraph, and CTA\nThe image, CTA, and supporting paragraph are optional\n"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "x] [Secondary CTA (optional) - 3 words max for a button, 5 words max for a link]orting paragraph, and CTA\nThe image, CTA, and supporting paragraph are optional\n",
+        "text_after_change": "x] [Secondary CTA (optional) - 3 words max for a button, 5 words max for a link] orting paragraph, and CTA\nThe image, CTA, and supporting paragraph are optional\n"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "] [Secondary CTA (optional) - 3 words max for a button, 5 words max for a link] ",
+        "following_text": "ting paragraph, and CTA\nThe image, CTA, and supporting paragraph are optional\nTo"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "] [Secondary CTA (optional) - 3 words max for a button, 5 words max for a link]   ting paragraph, and CTA\nThe image, CTA, and supporting paragraph are optional\nTo",
+        "text_after_change": "] [Secondary CTA (optional) - 3 words max for a button, 5 words max for a link] ting paragraph, and CTA\nThe image, CTA, and supporting paragraph are optional\nTo"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "\nMore about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n",
+        "following_text": "\nUse this to break down concepts or steps with a numbered list. For example, ins"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "\nMore about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n\nUse this to break down concepts or steps with a numbered list. For example, ins",
+        "text_after_change": "\nMore about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n \nUse this to break down concepts or steps with a numbered list. For example, ins"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "More about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n ",
+        "following_text": "se this to break down concepts or steps with a numbered list. For example, insta"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "More about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n   se this to break down concepts or steps with a numbered list. For example, insta",
+        "text_after_change": "More about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n se this to break down concepts or steps with a numbered list. For example, insta"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "re about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n   ",
+        "following_text": "e this to break down concepts or steps with a numbered list. For example, instal"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "re about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n   e this to break down concepts or steps with a numbered list. For example, instal",
+        "text_after_change": "re about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n    e this to break down concepts or steps with a numbered list. For example, instal"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "e about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n    ",
+        "following_text": "this to break down concepts or steps with a numbered list. For example, installa"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "e about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n      this to break down concepts or steps with a numbered list. For example, installa",
+        "text_after_change": "e about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n    this to break down concepts or steps with a numbered list. For example, installa"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n      ",
+        "following_text": "his to break down concepts or steps with a numbered list. For example, installat"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n      his to break down concepts or steps with a numbered list. For example, installat",
+        "text_after_change": "about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n       his to break down concepts or steps with a numbered list. For example, installat"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "bout the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n       ",
+        "following_text": "s to break down concepts or steps with a numbered list. For example, installatio"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "bout the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n         s to break down concepts or steps with a numbered list. For example, installatio",
+        "text_after_change": "bout the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n       s to break down concepts or steps with a numbered list. For example, installatio"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "ut the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n         ",
+        "following_text": " to break down concepts or steps with a numbered list. For example, installation"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "ut the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n          to break down concepts or steps with a numbered list. For example, installation",
+        "text_after_change": "ut the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n           to break down concepts or steps with a numbered list. For example, installation"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "t the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n          ",
+        "following_text": "o break down concepts or steps with a numbered list. For example, installation i"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "t the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n            o break down concepts or steps with a numbered list. For example, installation i",
+        "text_after_change": "t the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n          o break down concepts or steps with a numbered list. For example, installation i"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n            ",
+        "following_text": " break down concepts or steps with a numbered list. For example, installation in"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n             break down concepts or steps with a numbered list. For example, installation in",
+        "text_after_change": "the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n              break down concepts or steps with a numbered list. For example, installation in"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "he basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n             ",
+        "following_text": "reak down concepts or steps with a numbered list. For example, installation inst"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "he basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n               reak down concepts or steps with a numbered list. For example, installation inst",
+        "text_after_change": "he basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n             reak down concepts or steps with a numbered list. For example, installation inst"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": " basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n               ",
+        "following_text": "eak down concepts or steps with a numbered list. For example, installation instr"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": " basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n               eak down concepts or steps with a numbered list. For example, installation instr",
+        "text_after_change": " basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n                eak down concepts or steps with a numbered list. For example, installation instr"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n                ",
+        "following_text": "k down concepts or steps with a numbered list. For example, installation instruc"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n                  k down concepts or steps with a numbered list. For example, installation instruc",
+        "text_after_change": "basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n                k down concepts or steps with a numbered list. For example, installation instruc"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "sic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n                  ",
+        "following_text": " down concepts or steps with a numbered list. For example, installation instruct"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "sic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n                   down concepts or steps with a numbered list. For example, installation instruct",
+        "text_after_change": "sic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n                    down concepts or steps with a numbered list. For example, installation instruct"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "ic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n                   ",
+        "following_text": "own concepts or steps with a numbered list. For example, installation instructio"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "ic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n                     own concepts or steps with a numbered list. For example, installation instructio",
+        "text_after_change": "ic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n                   own concepts or steps with a numbered list. For example, installation instructio"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "t about your product or service. They can be the same content type (for example,",
+        "following_text": "00,000+\n\n1,000,000+\n\n[col:3,5,7, ch:20]\n\n\n20 characters\n\n20 characters\n\n20 chara"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "t about your product or service. They can be the same content type (for example,00,000+\n\n1,000,000+\n\n[col:3,5,7, ch:20]\n\n\n20 characters\n\n20 characters\n\n20 chara",
+        "text_after_change": "t about your product or service. They can be the same content type (for example, 00,000+\n\n1,000,000+\n\n[col:3,5,7, ch:20]\n\n\n20 characters\n\n20 characters\n\n20 chara"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": " about your product or service. They can be the same content type (for example, ",
+        "following_text": ",000+\n\n1,000,000+\n\n[col:3,5,7, ch:20]\n\n\n20 characters\n\n20 characters\n\n20 charact"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": " about your product or service. They can be the same content type (for example,   ,000+\n\n1,000,000+\n\n[col:3,5,7, ch:20]\n\n\n20 characters\n\n20 characters\n\n20 charact",
+        "text_after_change": " about your product or service. They can be the same content type (for example, ,000+\n\n1,000,000+\n\n[col:3,5,7, ch:20]\n\n\n20 characters\n\n20 characters\n\n20 charact"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "wsletter sign up relates to.]\n\nSupporting paragraph (optional, 300 chars max)\n\n[",
+        "following_text": "isual balance, make sure the volume of text is larger in this column than the ti"
+      },
+      "change": {
+        "type": "insert",
+        "new_text": " "
+      },
+      "verification": {
+        "text_before_change": "wsletter sign up relates to.]\n\nSupporting paragraph (optional, 300 chars max)\n\n[isual balance, make sure the volume of text is larger in this column than the ti",
+        "text_after_change": "wsletter sign up relates to.]\n\nSupporting paragraph (optional, 300 chars max)\n\n[ isual balance, make sure the volume of text is larger in this column than the ti"
+      }
+    },
+    {
+      "id": "suggest.2c3939ydmxi1",
+      "file": "DIVIDED SECTION",
+      "anchor": {
+        "preceding_text": "sletter sign up relates to.]\n\nSupporting paragraph (optional, 300 chars max)\n\n[ ",
+        "following_text": "ual balance, make sure the volume of text is larger in this column than the titl"
+      },
+      "change": {
+        "type": "delete",
+        "original_text": "  "
+      },
+      "verification": {
+        "text_before_change": "sletter sign up relates to.]\n\nSupporting paragraph (optional, 300 chars max)\n\n[   ual balance, make sure the volume of text is larger in this column than the titl",
+        "text_after_change": "sletter sign up relates to.]\n\nSupporting paragraph (optional, 300 chars max)\n\n[ ual balance, make sure the volume of text is larger in this column than the titl"
+      }
+    }
+  ],
+  "grouped_suggestions": [
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "Introduction",
+        "heading_level": 2,
+        "in_table": true,
+        "table": {
+          "table_index": 9,
+          "table_id": "table-9",
+          "table_title": "",
+          "row_index": 5,
+          "column_index": 5,
+          "column_header": "",
+          "row_header": ""
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.swgu6woyxj5g",
+          "anchor": {
+            "preceding_text": "template section - this is internal coding to match the template to Vanilla, then DELETE the instructions.\nClick on scre",
+            "following_text": "oc.\nBuild with automations\nThis template has automations you can access   via the ribbon menu:\n\n\n\nThere are two automati"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "template section - this is internal coding to match the template to Vanilla, then DELETE the instructions.\nClick on scre  oc.\nBuild with automations\nThis template has automations you can access   via the ribbon menu:\n\n\n\nThere are two automati",
+            "text_after_change": "template section - this is internal coding to match the template to Vanilla, then DELETE the instructions.\nClick on scre oc.\nBuild with automations\nThis template has automations you can access   via the ribbon menu:\n\n\n\nThere are two automati"
+          },
+          "position": {
+            "start_index": 320,
+            "end_index": 323
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "Build with automations",
+        "heading_level": 2,
+        "in_table": true,
+        "table": {
+          "table_index": 9,
+          "table_id": "table-9",
+          "table_title": "",
+          "row_index": 6,
+          "column_index": 2,
+          "column_header": "",
+          "row_header": ""
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.va7ijz9uih4d",
+          "anchor": {
+            "preceding_text": "a, then DELETE the instructions.\nClick on screenshots to view the templated section used on a live site. \nDon’t overth",
+            "following_text": "via the ribbon menu:\n\n\n\nThere are two automations under 🛠️Webpage template tools:\n\n🔍Check character limits - to "
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "a, then DELETE the instructions.\nClick on screenshots to view the templated section used on a live site. \nDon’t overth  via the ribbon menu:\n\n\n\nThere are two automations under 🛠️Webpage template tools:\n\n🔍Check character limits - to ",
+            "text_after_change": "a, then DELETE the instructions.\nClick on screenshots to view the templated section used on a live site. \nDon’t overth via the ribbon menu:\n\n\n\nThere are two automations under 🛠️Webpage template tools:\n\n🔍Check character limits - to "
+          },
+          "position": {
+            "start_index": 394,
+            "end_index": 397
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        },
+        {
+          "id": "suggest.b68oarncjyn5",
+          "anchor": {
+            "preceding_text": " the context of your other pages (for example, within the bubble), stage in the funnel and personas.\nContent checks\n\nChe",
+            "following_text": "ed in red. \n\nWe specify character limits to make sure your content is properly displayed on live pages. Overages may cau"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "Discover",
+            "new_text": "Change"
+          },
+          "verification": {
+            "text_before_change": " the context of your other pages (for example, within the bubble), stage in the funnel and personas.\nContent checks\n\nCheDiscovered in red. \n\nWe specify character limits to make sure your content is properly displayed on live pages. Overages may cau",
+            "text_after_change": " the context of your other pages (for example, within the bubble), stage in the funnel and personas.\nContent checks\n\nCheChangeed in red. \n\nWe specify character limits to make sure your content is properly displayed on live pages. Overages may cau"
+          },
+          "position": {
+            "start_index": 695,
+            "end_index": 709
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": "Change"
+            },
+            {
+              "type": "delete",
+              "original_text": "Discover"
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "Navigating this document",
+        "heading_level": 2,
+        "in_table": true,
+        "table": {
+          "table_index": 11,
+          "table_id": "table-11",
+          "table_title": "",
+          "row_index": 13,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:5, ch:60]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "ast one highly related keyword and is a good description of what people should e",
+            "following_text": "\n\nStart here - learn how to use this template to make a copy doc (you are curren"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "TIERED LIST"
+          },
+          "verification": {
+            "text_before_change": "ast one highly related keyword and is a good description of what people should eTIERED LIST\n\nStart here - learn how to use this template to make a copy doc (you are curren",
+            "text_after_change": "ast one highly related keyword and is a good description of what people should e\n\nStart here - learn how to use this template to make a copy doc (you are curren"
+          },
+          "position": {
+            "start_index": 2817,
+            "end_index": 2828
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "TIERED LIST"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "hly related keyword and is a good description of what people should expect when ",
+            "following_text": "arn how to use this template to make a copy doc (you are currently here)\nExample"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": " pattern template"
+          },
+          "verification": {
+            "text_before_change": "hly related keyword and is a good description of what people should expect when  pattern templatearn how to use this template to make a copy doc (you are currently here)\nExample",
+            "text_after_change": "hly related keyword and is a good description of what people should expect when arn how to use this template to make a copy doc (you are currently here)\nExample"
+          },
+          "position": {
+            "start_index": 2828,
+            "end_index": 2845
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": " pattern template"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "scription of what people should expect when reading the post. While Google tends",
+            "following_text": " to make a copy doc (you are currently here)\nExample page sections - review live"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "separator"
+          },
+          "verification": {
+            "text_before_change": "scription of what people should expect when reading the post. While Google tendsseparator to make a copy doc (you are currently here)\nExample page sections - review live",
+            "text_after_change": "scription of what people should expect when reading the post. While Google tends to make a copy doc (you are currently here)\nExample page sections - review live"
+          },
+          "position": {
+            "start_index": 2864,
+            "end_index": 2873
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "separator"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "uld expect when reading the post. While Google tends to build its own descriptio",
+            "following_text": "mple page sections - review live examples of each section and best practices\nPag"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "[col:1, ch:70][col:5, ch:900]"
+          },
+          "verification": {
+            "text_before_change": "uld expect when reading the post. While Google tends to build its own descriptio[col:1, ch:70][col:5, ch:900]mple page sections - review live examples of each section and best practices\nPag",
+            "text_after_change": "uld expect when reading the post. While Google tends to build its own descriptiomple page sections - review live examples of each section and best practices\nPag"
+          },
+          "position": {
+            "start_index": 2892,
+            "end_index": 2921
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "[col:1, ch:70][col:5, ch:900]"
+            }
+          ],
+          "atomic_count": 1
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "Navigating this document",
+        "heading_level": 2,
+        "in_table": true,
+        "table": {
+          "table_index": 12,
+          "table_id": "table-12",
+          "table_title": "",
+          "row_index": 3,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:1, ch:70][col:5, ch:900]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "t. While Google tends to build its own description for pages, the meta descripti",
+            "following_text": "s - review live examples of each section and best practices\nPage sections librar"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Example change "
+          },
+          "verification": {
+            "text_before_change": "t. While Google tends to build its own description for pages, the meta descriptiExample change s - review live examples of each section and best practices\nPage sections librar",
+            "text_after_change": "t. While Google tends to build its own description for pages, the meta descriptis - review live examples of each section and best practices\nPage sections librar"
+          },
+          "position": {
+            "start_index": 2923,
+            "end_index": 2938
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Example change "
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.r9m1h3clqnd7",
+          "anchor": {
+            "preceding_text": "eople should expect when reading the post. While Google tends to build its own description for pages, the meta descripti",
+            "following_text": " each section and best practices\nPage sections library - access the full list of sections you can use on a page\n\nThen bu"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "Services for Canonical Ceph",
+            "new_text": "Example change "
+          },
+          "verification": {
+            "text_before_change": "eople should expect when reading the post. While Google tends to build its own description for pages, the meta descriptiServices for Canonical Ceph each section and best practices\nPage sections library - access the full list of sections you can use on a page\n\nThen bu",
+            "text_after_change": "eople should expect when reading the post. While Google tends to build its own description for pages, the meta descriptiExample change  each section and best practices\nPage sections library - access the full list of sections you can use on a page\n\nThen bu"
+          },
+          "position": {
+            "start_index": 2923,
+            "end_index": 2965
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": "Example change "
+            },
+            {
+              "type": "delete",
+              "original_text": "Services for Canonical Ceph"
+            }
+          ],
+          "atomic_count": 2
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": " tends to build its own description for pages, the meta description is still hig",
+            "following_text": " each section and best practices\nPage sections library - access the full list of"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Services for Canonical Ceph"
+          },
+          "verification": {
+            "text_before_change": " tends to build its own description for pages, the meta description is still higServices for Canonical Ceph each section and best practices\nPage sections library - access the full list of",
+            "text_after_change": " tends to build its own description for pages, the meta description is still hig each section and best practices\nPage sections library - access the full list of"
+          },
+          "position": {
+            "start_index": 2938,
+            "end_index": 2965
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Services for Canonical Ceph"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": " for pages, the meta description is still highly irrelevant when sharing on soci",
+            "following_text": "sing our automations \nYour page - add and edit your page’s content \nBest pract"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "From the initial design and hardware selection, to ongoing software support and management, Canonical’s offerings cover  all types of Ceph deployments on Ubuntu. Available 24/7/365, by telephone and ticket."
+          },
+          "verification": {
+            "text_before_change": " for pages, the meta description is still highly irrelevant when sharing on sociFrom the initial design and hardware selection, to ongoing software support and management, Canonical’s offerings cover  all types of Ceph deployments on Ubuntu. Available 24/7/365, by telephone and ticket.sing our automations \nYour page - add and edit your page’s content \nBest pract",
+            "text_after_change": " for pages, the meta description is still highly irrelevant when sharing on socising our automations \nYour page - add and edit your page’s content \nBest pract"
+          },
+          "position": {
+            "start_index": 2973,
+            "end_index": 3179
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "From the initial design and hardware selection, to ongoing software support and management, Canonical’s offerings cover  all types of Ceph deployments on Ubuntu. Available 24/7/365, by telephone and ticket."
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "k is shared. \n\n\n\n\nMETADATA TABLE\n*Page title (60 characters max)\n\n*Page descript",
+            "following_text": "our page - add and edit your page’s content \nBest practices and links\nPre-work"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "[col:5, ch:60]"
+          },
+          "verification": {
+            "text_before_change": "k is shared. \n\n\n\n\nMETADATA TABLE\n*Page title (60 characters max)\n\n*Page descript[col:5, ch:60]our page - add and edit your page’s content \nBest practices and links\nPre-work",
+            "text_after_change": "k is shared. \n\n\n\n\nMETADATA TABLE\n*Page title (60 characters max)\n\n*Page descriptour page - add and edit your page’s content \nBest practices and links\nPre-work"
+          },
+          "position": {
+            "start_index": 3188,
+            "end_index": 3202
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "[col:5, ch:60]"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "TA TABLE\n*Page title (60 characters max)\n\n*Page description (160 characters max)",
+            "following_text": "’s content \nBest practices and links\nPre-work check\nConsider the context of yo"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Discover Canonical Ceph"
+          },
+          "verification": {
+            "text_before_change": "TA TABLE\n*Page title (60 characters max)\n\n*Page description (160 characters max)Discover Canonical Ceph’s content \nBest practices and links\nPre-work check\nConsider the context of yo",
+            "text_after_change": "TA TABLE\n*Page title (60 characters max)\n\n*Page description (160 characters max)’s content \nBest practices and links\nPre-work check\nConsider the context of yo"
+          },
+          "position": {
+            "start_index": 3212,
+            "end_index": 3235
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Discover Canonical Ceph"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "acters max)\n\n*Page description (160 characters max)\n\n*Current or suggested page ",
+            "following_text": "re-work check\nConsider the context of your page and make sure your content suits"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "[col:3, ch:50][col:5, ch:300]"
+          },
+          "verification": {
+            "text_before_change": "acters max)\n\n*Page description (160 characters max)\n\n*Current or suggested page [col:3, ch:50][col:5, ch:300]re-work check\nConsider the context of your page and make sure your content suits",
+            "text_after_change": "acters max)\n\n*Page description (160 characters max)\n\n*Current or suggested page re-work check\nConsider the context of your page and make sure your content suits"
+          },
+          "position": {
+            "start_index": 3244,
+            "end_index": 3273
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "[col:3, ch:50][col:5, ch:300]"
+            }
+          ],
+          "atomic_count": 1
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "CALL TO ACTION SECTION (CTA)",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 12,
+          "table_id": "table-12",
+          "table_title": "",
+          "row_index": 5,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:3, ch:50][col:5, ch:300]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "(160 characters max)\n\n*Current or suggested page URL\n\nReference page(s) *New\nIf ",
+            "following_text": "e context of your page and make sure your content suits the context of your othe"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Design and delivery"
+          },
+          "verification": {
+            "text_before_change": "(160 characters max)\n\n*Current or suggested page URL\n\nReference page(s) *New\nIf Design and deliverye context of your page and make sure your content suits the context of your othe",
+            "text_after_change": "(160 characters max)\n\n*Current or suggested page URL\n\nReference page(s) *New\nIf e context of your page and make sure your content suits the context of your othe"
+          },
+          "position": {
+            "start_index": 3279,
+            "end_index": 3298
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Design and delivery"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "Current or suggested page URL\n\nReference page(s) *New\nIf there is a page with a ",
+            "following_text": "em\nUse US spelling, active voice, and plain language whenever possible\nUse bulle"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Canonical offers fixed price Ceph consulting packages. Our basic package gets your Ceph cluster up and running in a standardized configuration. Alternatively, for a tailored deployment architecture which meets your unique requirements, choose our plus offering. "
+          },
+          "verification": {
+            "text_before_change": "Current or suggested page URL\n\nReference page(s) *New\nIf there is a page with a Canonical offers fixed price Ceph consulting packages. Our basic package gets your Ceph cluster up and running in a standardized configuration. Alternatively, for a tailored deployment architecture which meets your unique requirements, choose our plus offering. em\nUse US spelling, active voice, and plain language whenever possible\nUse bulle",
+            "text_after_change": "Current or suggested page URL\n\nReference page(s) *New\nIf there is a page with a em\nUse US spelling, active voice, and plain language whenever possible\nUse bulle"
+          },
+          "position": {
+            "start_index": 3302,
+            "end_index": 3564
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Canonical offers fixed price Ceph consulting packages. Our basic package gets your Ceph cluster up and running in a standardized configuration. Alternatively, for a tailored deployment architecture which meets your unique requirements, choose our plus offering. "
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.2c3939ydmxi1",
+          "anchor": {
+            "preceding_text": "ke us to reference, please link it here.\nNavigation *New\nIndicate how a user navigates to the page without a direct URL.",
+            "following_text": "rsonas.\n\nCopy doc checks\nCheck your content matches the Copy Style Guide\nSpell out acronyms the first time you use them\n"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "ke us to reference, please link it here.\nNavigation *New\nIndicate how a user navigates to the page without a direct URL.  rsonas.\n\nCopy doc checks\nCheck your content matches the Copy Style Guide\nSpell out acronyms the first time you use them\n",
+            "text_after_change": "ke us to reference, please link it here.\nNavigation *New\nIndicate how a user navigates to the page without a direct URL. rsonas.\n\nCopy doc checks\nCheck your content matches the Copy Style Guide\nSpell out acronyms the first time you use them\n"
+          },
+          "position": {
+            "start_index": 3444,
+            "end_index": 3447
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "CALL TO ACTION BLOCK",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 12,
+          "table_id": "table-12",
+          "table_title": "",
+          "row_index": 6,
+          "column_index": 5,
+          "column_header": "",
+          "row_header": "[col:5, ch:60]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "an existing page, please add a link and specify where the link should be placed.",
+            "following_text": "plain language whenever possible\nUse bulleting and chunking so content is easier"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "[col:3, ch:50][col:5, ch:300]"
+          },
+          "verification": {
+            "text_before_change": "an existing page, please add a link and specify where the link should be placed.[col:3, ch:50][col:5, ch:300]plain language whenever possible\nUse bulleting and chunking so content is easier",
+            "text_after_change": "an existing page, please add a link and specify where the link should be placed.plain language whenever possible\nUse bulleting and chunking so content is easier"
+          },
+          "position": {
+            "start_index": 3573,
+            "end_index": 3602
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "[col:3, ch:50][col:5, ch:300]"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": " and specify where the link should be placed.\n\nOr, request changes to the Canoni",
+            "following_text": "e whenever possible\nUse bulleting and chunking so content is easier to scan\nAdd "
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Support"
+          },
+          "verification": {
+            "text_before_change": " and specify where the link should be placed.\n\nOr, request changes to the CanoniSupporte whenever possible\nUse bulleting and chunking so content is easier to scan\nAdd ",
+            "text_after_change": " and specify where the link should be placed.\n\nOr, request changes to the Canonie whenever possible\nUse bulleting and chunking so content is easier to scan\nAdd "
+          },
+          "position": {
+            "start_index": 3608,
+            "end_index": 3615
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Support"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "y where the link should be placed.\n\nOr, request changes to the Canonical.com mai",
+            "following_text": "ure to save in the copy docs folder\n\u000bQuick links\nBrowse available images from th"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "24/7/365 on demand enterprise Ceph support. Get guaranteed SLAs, including knowledge base access, troubleshooting, and bug fixing, to ensure peace of mind for your Ceph deployments."
+          },
+          "verification": {
+            "text_before_change": "y where the link should be placed.\n\nOr, request changes to the Canonical.com mai24/7/365 on demand enterprise Ceph support. Get guaranteed SLAs, including knowledge base access, troubleshooting, and bug fixing, to ensure peace of mind for your Ceph deployments.ure to save in the copy docs folder\n\u000bQuick links\nBrowse available images from th",
+            "text_after_change": "y where the link should be placed.\n\nOr, request changes to the Canonical.com maiure to save in the copy docs folder\n\u000bQuick links\nBrowse available images from th"
+          },
+          "position": {
+            "start_index": 3619,
+            "end_index": 3800
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "24/7/365 on demand enterprise Ceph support. Get guaranteed SLAs, including knowledge base access, troubleshooting, and bug fixing, to ensure peace of mind for your Ceph deployments."
+            }
+          ],
+          "atomic_count": 1
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "LINKED LOGO SECTION",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 12,
+          "table_id": "table-12",
+          "table_title": "",
+          "row_index": 9,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:3, ch:50][col:5, ch:300]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "av or bubble navigation, please indicate path. For example, All Canonical \u003e Prod",
+            "following_text": " docs folder\n\u000bQuick links\nBrowse available images from the image library, add th"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "[col:5, ch:60]"
+          },
+          "verification": {
+            "text_before_change": "av or bubble navigation, please indicate path. For example, All Canonical \u003e Prod[col:5, ch:60] docs folder\n\u000bQuick links\nBrowse available images from the image library, add th",
+            "text_after_change": "av or bubble navigation, please indicate path. For example, All Canonical \u003e Prod docs folder\n\u000bQuick links\nBrowse available images from the image library, add th"
+          },
+          "position": {
+            "start_index": 3809,
+            "end_index": 3823
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "[col:5, ch:60]"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "n, please indicate path. For example, All Canonical \u003e Products \u003e AI/ML.\nMain act",
+            "following_text": "rowse available images from the image library, add them to the copy doc, include"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Explore support \u003e"
+          },
+          "verification": {
+            "text_before_change": "n, please indicate path. For example, All Canonical \u003e Products \u003e AI/ML.\nMain actExplore support \u003erowse available images from the image library, add them to the copy doc, include",
+            "text_after_change": "n, please indicate path. For example, All Canonical \u003e Products \u003e AI/ML.\nMain actrowse available images from the image library, add them to the copy doc, include"
+          },
+          "position": {
+            "start_index": 3833,
+            "end_index": 3850
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Explore support \u003e"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "or example, All Canonical \u003e Products \u003e AI/ML.\nMain action for users to take on t",
+            "following_text": "library, add them to the copy doc, include the asset manager link\nCreate a new f"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "[col:3, ch:50][col:5, ch:300]"
+          },
+          "verification": {
+            "text_before_change": "or example, All Canonical \u003e Products \u003e AI/ML.\nMain action for users to take on t[col:3, ch:50][col:5, ch:300]library, add them to the copy doc, include the asset manager link\nCreate a new f",
+            "text_after_change": "or example, All Canonical \u003e Products \u003e AI/ML.\nMain action for users to take on tlibrary, add them to the copy doc, include the asset manager link\nCreate a new f"
+          },
+          "position": {
+            "start_index": 3859,
+            "end_index": 3888
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "[col:3, ch:50][col:5, ch:300]"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "ts \u003e AI/ML.\nMain action for users to take on the page \nExamples: To download whi",
+            "following_text": "he copy doc, include the asset manager link\nCreate a new form using the form tem"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Managed services"
+          },
+          "verification": {
+            "text_before_change": "ts \u003e AI/ML.\nMain action for users to take on the page \nExamples: To download whiManaged serviceshe copy doc, include the asset manager link\nCreate a new form using the form tem",
+            "text_after_change": "ts \u003e AI/ML.\nMain action for users to take on the page \nExamples: To download whihe copy doc, include the asset manager link\nCreate a new form using the form tem"
+          },
+          "position": {
+            "start_index": 3894,
+            "end_index": 3910
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Managed services"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "ion for users to take on the page \nExamples: To download whitepaper, to contact ",
+            "following_text": " a request and link the ticket in the webpage copy doc\nNew design patterns: Subm"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Fully managed storage as a service, based on Ceph. Managed services covers operations and maintenance, with 24/7 monitoring, incident management, capacity planning, and upgrades."
+          },
+          "verification": {
+            "text_before_change": "ion for users to take on the page \nExamples: To download whitepaper, to contact Fully managed storage as a service, based on Ceph. Managed services covers operations and maintenance, with 24/7 monitoring, incident management, capacity planning, and upgrades. a request and link the ticket in the webpage copy doc\nNew design patterns: Subm",
+            "text_after_change": "ion for users to take on the page \nExamples: To download whitepaper, to contact  a request and link the ticket in the webpage copy doc\nNew design patterns: Subm"
+          },
+          "position": {
+            "start_index": 3914,
+            "end_index": 4092
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Fully managed storage as a service, based on Ceph. Managed services covers operations and maintenance, with 24/7 monitoring, incident management, capacity planning, and upgrades."
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "own)\n\nPage type (choose from drop down)\n\nStage in the funnel\n\n*Page own",
+            "following_text": " ticket in the webpage copy doc\nNew design patterns: Submit a request\n\nIf you ha"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "[col:5, ch:60]"
+          },
+          "verification": {
+            "text_before_change": "own)\n\nPage type (choose from drop down)\n\nStage in the funnel\n\n*Page own[col:5, ch:60] ticket in the webpage copy doc\nNew design patterns: Submit a request\n\nIf you ha",
+            "text_after_change": "own)\n\nPage type (choose from drop down)\n\nStage in the funnel\n\n*Page own ticket in the webpage copy doc\nNew design patterns: Submit a request\n\nIf you ha"
+          },
+          "position": {
+            "start_index": 4101,
+            "end_index": 4115
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "[col:5, ch:60]"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "se from drop down)\n\nStage in the funnel\n\n*Page owner (writer and departmen",
+            "following_text": "design patterns: Submit a request\n\nIf you have any questions or would like to wo"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Explore managed services \u003e"
+          },
+          "verification": {
+            "text_before_change": "se from drop down)\n\nStage in the funnel\n\n*Page owner (writer and departmenExplore managed services \u003edesign patterns: Submit a request\n\nIf you have any questions or would like to wo",
+            "text_after_change": "se from drop down)\n\nStage in the funnel\n\n*Page owner (writer and departmendesign patterns: Submit a request\n\nIf you have any questions or would like to wo"
+          },
+          "position": {
+            "start_index": 4125,
+            "end_index": 4151
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Explore managed services \u003e"
+            }
+          ],
+          "atomic_count": 1
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "LOGO EQUAL HEIGHTS",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 12,
+          "table_id": "table-12",
+          "table_title": "",
+          "row_index": 11,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:3, ch:50][col:5, ch:300]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "funnel\n\n*Page owner (writer and department)\n\n\nPlease indicate approvals ne",
+            "following_text": "you have any questions or would like to work through the page together, please r"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "[col:3, ch:50][col:5, ch:300]"
+          },
+          "verification": {
+            "text_before_change": "funnel\n\n*Page owner (writer and department)\n\n\nPlease indicate approvals ne[col:3, ch:50][col:5, ch:300]you have any questions or would like to work through the page together, please r",
+            "text_after_change": "funnel\n\n*Page owner (writer and department)\n\n\nPlease indicate approvals neyou have any questions or would like to work through the page together, please r"
+          },
+          "position": {
+            "start_index": 4160,
+            "end_index": 4189
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "[col:3, ch:50][col:5, ch:300]"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "department)\n\n\nPlease indicate approvals needed before the page goes into deve",
+            "following_text": "would like to work through the page together, please reach out to UX designers o"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Firefighting support"
+          },
+          "verification": {
+            "text_before_change": "department)\n\n\nPlease indicate approvals needed before the page goes into deveFirefighting supportwould like to work through the page together, please reach out to UX designers o",
+            "text_after_change": "department)\n\n\nPlease indicate approvals needed before the page goes into devewould like to work through the page together, please reach out to UX designers o"
+          },
+          "position": {
+            "start_index": 4195,
+            "end_index": 4215
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Firefighting support"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "indicate approvals needed before the page goes into development: \nog:Image *N",
+            "following_text": "ge together, please reach out to UX designers on the Sites team  or on the ~Cont"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Firefighting support offers a"
+          },
+          "verification": {
+            "text_before_change": "indicate approvals needed before the page goes into development: \nog:Image *NFirefighting support offers age together, please reach out to UX designers on the Sites team  or on the ~Cont",
+            "text_after_change": "indicate approvals needed before the page goes into development: \nog:Image *Nge together, please reach out to UX designers on the Sites team  or on the ~Cont"
+          },
+          "position": {
+            "start_index": 4219,
+            "end_index": 4248
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Firefighting support offers a"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "fore the page goes into development: \nog:Image *New\nPlease include a link to ",
+            "following_text": "10 business days for new web page requests.\n\n\n\n\n\n balanced, use the same volume "
+          },
+          "change": {
+            "type": "delete",
+            "original_text": " bridge between self-management with troubleshooting support, and a managed service. Get access to on-call engineers to assist with the most critical problems"
+          },
+          "verification": {
+            "text_before_change": "fore the page goes into development: \nog:Image *New\nPlease include a link to  bridge between self-management with troubleshooting support, and a managed service. Get access to on-call engineers to assist with the most critical problems10 business days for new web page requests.\n\n\n\n\n\n balanced, use the same volume ",
+            "text_after_change": "fore the page goes into development: \nog:Image *New\nPlease include a link to 10 business days for new web page requests.\n\n\n\n\n\n balanced, use the same volume "
+          },
+          "position": {
+            "start_index": 4248,
+            "end_index": 4406
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": " bridge between self-management with troubleshooting support, and a managed service. Get access to on-call engineers to assist with the most critical problems"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": " them as necessary.\nFor developers, to be filled in by Sites visual designers: L",
+            "following_text": " business days for new web page requests.\n\n\n\n\n\nalanced, use the same volume of c"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": ". "
+          },
+          "verification": {
+            "text_before_change": " them as necessary.\nFor developers, to be filled in by Sites visual designers: L.  business days for new web page requests.\n\n\n\n\n\nalanced, use the same volume of c",
+            "text_after_change": " them as necessary.\nFor developers, to be filled in by Sites visual designers: L business days for new web page requests.\n\n\n\n\n\nalanced, use the same volume of c"
+          },
+          "position": {
+            "start_index": 4406,
+            "end_index": 4408
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": ". "
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "cessary.\nFor developers, to be filled in by Sites visual designers: Link to asse",
+            "following_text": "web page requests.\n\n\n\n\n\nolume of content for each column\nDon’t overthink it, w"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "[col:5, ch:60]"
+          },
+          "verification": {
+            "text_before_change": "cessary.\nFor developers, to be filled in by Sites visual designers: Link to asse[col:5, ch:60]web page requests.\n\n\n\n\n\nolume of content for each column\nDon’t overthink it, w",
+            "text_after_change": "cessary.\nFor developers, to be filled in by Sites visual designers: Link to asseweb page requests.\n\n\n\n\n\nolume of content for each column\nDon’t overthink it, w"
+          },
+          "position": {
+            "start_index": 4417,
+            "end_index": 4431
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "[col:5, ch:60]"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "s, to be filled in by Sites visual designers: Link to asset manager tag\n \n\nHero\n",
+            "following_text": " overthink it, we’ll choose the best layout based on the content\n\n\n\n\n\nLOGO SEC"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Explore firefighting support \u003e"
+          },
+          "verification": {
+            "text_before_change": "s, to be filled in by Sites visual designers: Link to asset manager tag\n \n\nHero\nExplore firefighting support \u003e overthink it, we’ll choose the best layout based on the content\n\n\n\n\n\nLOGO SEC",
+            "text_after_change": "s, to be filled in by Sites visual designers: Link to asset manager tag\n \n\nHero\n overthink it, we’ll choose the best layout based on the content\n\n\n\n\n\nLOGO SEC"
+          },
+          "position": {
+            "start_index": 4441,
+            "end_index": 4471
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Explore firefighting support \u003e"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "esigners: Link to asset manager tag\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this",
+            "following_text": " layout based on the content\n\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple log"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "[col:3, ch:50][col:5, ch:300]"
+          },
+          "verification": {
+            "text_before_change": "esigners: Link to asset manager tag\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this[col:3, ch:50][col:5, ch:300] layout based on the content\n\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple log",
+            "text_after_change": "esigners: Link to asset manager tag\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this layout based on the content\n\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple log"
+          },
+          "position": {
+            "start_index": 4480,
+            "end_index": 4509
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "[col:3, ch:50][col:5, ch:300]"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this only at the top of a page, to make",
+            "following_text": "\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple logos without linking them.\nIntr"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Security and compliance"
+          },
+          "verification": {
+            "text_before_change": "\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this only at the top of a page, to makeSecurity and compliance\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple logos without linking them.\nIntr",
+            "text_after_change": "\n \n\nHero\nBACK TO INDEX\n\nINSTRUCTIONS\nUse this only at the top of a page, to make\n\n\n\n\nLOGO SECTION\nUse this to showcase multiple logos without linking them.\nIntr"
+          },
+          "position": {
+            "start_index": 4515,
+            "end_index": 4538
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Security and compliance"
+            }
+          ],
+          "atomic_count": 1
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "LOGO EQUAL HEIGHTS",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 6,
+          "table_id": "table-6",
+          "table_title": "Don’t overthink it, we’ll choose the best layout based on the content",
+          "row_index": 1,
+          "column_index": 2,
+          "column_header": "",
+          "row_header": ""
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "TRUCTIONS\nUse this only at the top of a page, to make a strong statement about a",
+            "following_text": "m.\nIntroduce the logos with a brief headline (required) and a short paragraph\nWo"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Make your systems more secure and simplify compliance with Ubuntu Pro. Get u"
+          },
+          "verification": {
+            "text_before_change": "TRUCTIONS\nUse this only at the top of a page, to make a strong statement about aMake your systems more secure and simplify compliance with Ubuntu Pro. Get um.\nIntroduce the logos with a brief headline (required) and a short paragraph\nWo",
+            "text_after_change": "TRUCTIONS\nUse this only at the top of a page, to make a strong statement about am.\nIntroduce the logos with a brief headline (required) and a short paragraph\nWo"
+          },
+          "position": {
+            "start_index": 4542,
+            "end_index": 4618
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Make your systems more secure and simplify compliance with Ubuntu Pro. Get u"
+            }
+          ],
+          "atomic_count": 1
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "LOGO SECTION",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 12,
+          "table_id": "table-12",
+          "table_title": "",
+          "row_index": 13,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:3, ch:50][col:5, ch:300]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": " a product, service, etc. and show why it’s helpful to the user. \n\nDepending o",
+            "following_text": "rks best with 8 logos maximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with "
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "p to 15 years of security maintenance for all artifacts used in Canonical Ceph. "
+          },
+          "verification": {
+            "text_before_change": " a product, service, etc. and show why it’s helpful to the user. \n\nDepending op to 15 years of security maintenance for all artifacts used in Canonical Ceph. rks best with 8 logos maximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with ",
+            "text_after_change": " a product, service, etc. and show why it’s helpful to the user. \n\nDepending orks best with 8 logos maximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with "
+          },
+          "position": {
+            "start_index": 4618,
+            "end_index": 4698
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "p to 15 years of security maintenance for all artifacts used in Canonical Ceph. "
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "e type, the Visual team will split the content by 25/75 or 50/50 across the page",
+            "following_text": "aximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with quotes.\nInclude the sam"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "[col:5, ch:60]"
+          },
+          "verification": {
+            "text_before_change": "e type, the Visual team will split the content by 25/75 or 50/50 across the page[col:5, ch:60]aximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with quotes.\nInclude the sam",
+            "text_after_change": "e type, the Visual team will split the content by 25/75 or 50/50 across the pageaximum\n\n\nQUOTE WRAPPER\nUse this to add social proof with quotes.\nInclude the sam"
+          },
+          "position": {
+            "start_index": 4707,
+            "end_index": 4721
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "[col:5, ch:60]"
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "will split the content by 25/75 or 50/50 across the page.\n\nCalls to action (CTAs",
+            "following_text": "to add social proof with quotes.\nInclude the same source sections for each quote"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "Learn about Ubuntu Pro \u003e"
+          },
+          "verification": {
+            "text_before_change": "will split the content by 25/75 or 50/50 across the page.\n\nCalls to action (CTAsLearn about Ubuntu Pro \u003eto add social proof with quotes.\nInclude the same source sections for each quote",
+            "text_after_change": "will split the content by 25/75 or 50/50 across the page.\n\nCalls to action (CTAsto add social proof with quotes.\nInclude the same source sections for each quote"
+          },
+          "position": {
+            "start_index": 4731,
+            "end_index": 4755
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "Learn about Ubuntu Pro \u003e"
+            }
+          ],
+          "atomic_count": 1
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "QUOTE WRAPPER",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 12,
+          "table_id": "table-12",
+          "table_title": "",
+          "row_index": 13,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:3, ch:50][col:5, ch:300]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.8ovjan6bz4p2",
+          "anchor": {
+            "preceding_text": "or 50/50 across the page.\n\nCalls to action (CTAs) direct users to take action. T",
+            "following_text": "cial proof with quotes.\nInclude the same source sections for each quote\n\nNEWSLET"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "\n"
+          },
+          "verification": {
+            "text_before_change": "or 50/50 across the page.\n\nCalls to action (CTAs) direct users to take action. T\ncial proof with quotes.\nInclude the same source sections for each quote\n\nNEWSLET",
+            "text_after_change": "or 50/50 across the page.\n\nCalls to action (CTAs) direct users to take action. Tcial proof with quotes.\nInclude the same source sections for each quote\n\nNEWSLET"
+          },
+          "position": {
+            "start_index": 4763,
+            "end_index": 4764
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "\n"
+            }
+          ],
+          "atomic_count": 1
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "NEWSLETTER SIGNUP",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 12,
+          "table_id": "table-12",
+          "table_title": "",
+          "row_index": 14,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:5, ch:60]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.j0wpzqm7fft5",
+          "anchor": {
+            "preceding_text": "words max) and accurately describe where the user ends up. You can often rely on a simple [noun] + [verb] structure. For",
+            "following_text": " page.   \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to compare small units such as price o"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": " ",
+            "new_text": "-"
+          },
+          "verification": {
+            "text_before_change": "words max) and accurately describe where the user ends up. You can often rely on a simple [noun] + [verb] structure. For  page.   \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to compare small units such as price o",
+            "text_after_change": "words max) and accurately describe where the user ends up. You can often rely on a simple [noun] + [verb] structure. For- page.   \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to compare small units such as price o"
+          },
+          "position": {
+            "start_index": 4906,
+            "end_index": 4908
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": "-"
+            },
+            {
+              "type": "delete",
+              "original_text": " "
+            }
+          ],
+          "atomic_count": 2
+        },
+        {
+          "id": "suggest.lhmadvi4kovu",
+          "anchor": {
+            "preceding_text": "x) and accurately describe where the user ends up. You can often rely on a simple [noun] + [verb] structure. For example",
+            "following_text": "\nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to compare small units such as price or ‘yes/"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "x) and accurately describe where the user ends up. You can often rely on a simple [noun] + [verb] structure. For example  \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to compare small units such as price or ‘yes/",
+            "text_after_change": "x) and accurately describe where the user ends up. You can often rely on a simple [noun] + [verb] structure. For example \nSpecify which product the newsletter signup relates to\n\n\nTABLE\nUse this to compare small units such as price or ‘yes/"
+          },
+          "position": {
+            "start_index": 4914,
+            "end_index": 4917
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        },
+        {
+          "id": "suggest.q3xr3z3m1oqp",
+          "anchor": {
+            "preceding_text": "simple [noun] + [verb] structure. For example: ‘Contact us’ or ‘Download U",
+            "following_text": "gnup relates to\n\n\nTABLE\nUse this to compare small units such as price or ‘yes/"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "coverage"
+          },
+          "verification": {
+            "text_before_change": "simple [noun] + [verb] structure. For example: ‘Contact us’ or ‘Download Ucoveragegnup relates to\n\n\nTABLE\nUse this to compare small units such as price or ‘yes/",
+            "text_after_change": "simple [noun] + [verb] structure. For example: ‘Contact us’ or ‘Download Ugnup relates to\n\n\nTABLE\nUse this to compare small units such as price or ‘yes/"
+          },
+          "position": {
+            "start_index": 4949,
+            "end_index": 4957
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "coverage"
+            }
+          ],
+          "atomic_count": 1
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "TABLE",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 12,
+          "table_id": "table-12",
+          "table_title": "",
+          "row_index": 16,
+          "column_index": 8,
+          "column_header": "",
+          "row_header": "[col:5, ch:20][col:7, ch:60]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.lhmadvi4kovu",
+          "anchor": {
+            "preceding_text": "\ufffdDownload Ubuntu.’ If you need a longer CTA, we can make it a link instead of a button.\n\nBest practice: Limit each blo",
+            "following_text": "\nBreak down the product into its key features or components. List them out so it’s clear what is included in the price"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "\ufffdDownload Ubuntu.’ If you need a longer CTA, we can make it a link instead of a button.\n\nBest practice: Limit each blo  \nBreak down the product into its key features or components. List them out so it’s clear what is included in the price",
+            "text_after_change": "\ufffdDownload Ubuntu.’ If you need a longer CTA, we can make it a link instead of a button.\n\nBest practice: Limit each blo \nBreak down the product into its key features or components. List them out so it’s clear what is included in the price"
+          },
+          "position": {
+            "start_index": 5050,
+            "end_index": 5053
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        },
+        {
+          "id": "suggest.1efaumymt77m",
+          "anchor": {
+            "preceding_text": "\ufffdDownload Ubuntu.’ If you need a longer CTA, we can make it a link instead of a button.\n\nBest practice: Limit each blo",
+            "following_text": "wn the product into its key features or components. List them out so it’s clear what is included in the price and what"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "P",
+            "new_text": "Access to p"
+          },
+          "verification": {
+            "text_before_change": "\ufffdDownload Ubuntu.’ If you need a longer CTA, we can make it a link instead of a button.\n\nBest practice: Limit each bloPwn the product into its key features or components. List them out so it’s clear what is included in the price and what",
+            "text_after_change": "\ufffdDownload Ubuntu.’ If you need a longer CTA, we can make it a link instead of a button.\n\nBest practice: Limit each bloAccess to pwn the product into its key features or components. List them out so it’s clear what is included in the price and what"
+          },
+          "position": {
+            "start_index": 5050,
+            "end_index": 5062
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": "Access to p"
+            },
+            {
+              "type": "delete",
+              "original_text": "P"
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "PRICING BLOCK",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 13,
+          "table_id": "table-13",
+          "table_title": "",
+          "row_index": 4,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:5, ch:300]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.swgu6woyxj5g",
+          "anchor": {
+            "preceding_text": "e about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optiona",
+            "following_text": " this to display 1 option or compare 2-4 options. \nA minimum of 3 columns with s"
+          },
+          "change": {
+            "type": "insert",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "e about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optiona this to display 1 option or compare 2-4 options. \nA minimum of 3 columns with s",
+            "text_after_change": "e about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optiona  this to display 1 option or compare 2-4 options. \nA minimum of 3 columns with s"
+          },
+          "position": {
+            "start_index": 5237,
+            "end_index": 5238
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.swgu6woyxj5g",
+          "anchor": {
+            "preceding_text": " about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optional",
+            "following_text": "his to display 1 option or compare 2-4 options. \nA minimum of 3 columns with sub"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "  "
+          },
+          "verification": {
+            "text_before_change": " about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optional  his to display 1 option or compare 2-4 options. \nA minimum of 3 columns with sub",
+            "text_after_change": " about the hero section.\n\n\n\nHERO\nHero title (70 chars max)\nSubheading - optionalhis to display 1 option or compare 2-4 options. \nA minimum of 3 columns with sub"
+          },
+          "position": {
+            "start_index": 5238,
+            "end_index": 5240
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.swgu6woyxj5g",
+          "anchor": {
+            "preceding_text": "max)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (",
+            "following_text": "s ideal\nEach column can have 4 items: image, subheading, supporting paragraph, a"
+          },
+          "change": {
+            "type": "insert",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "max)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (s ideal\nEach column can have 4 items: image, subheading, supporting paragraph, a",
+            "text_after_change": "max)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA ( s ideal\nEach column can have 4 items: image, subheading, supporting paragraph, a"
+          },
+          "position": {
+            "start_index": 5329,
+            "end_index": 5330
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.swgu6woyxj5g",
+          "anchor": {
+            "preceding_text": "ax)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (o",
+            "following_text": "ideal\nEach column can have 4 items: image, subheading, supporting paragraph, and"
+          },
+          "change": {
+            "type": "delete",
+            "original_text": "  "
+          },
+          "verification": {
+            "text_before_change": "ax)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (o  ideal\nEach column can have 4 items: image, subheading, supporting paragraph, and",
+            "text_after_change": "ax)\n\nSupporting paragraph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (oideal\nEach column can have 4 items: image, subheading, supporting paragraph, and"
+          },
+          "position": {
+            "start_index": 5330,
+            "end_index": 5332
+          },
+          "atomic_changes": [
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 1
+        },
+        {
+          "id": "suggest.2c3939ydmxi1",
+          "anchor": {
+            "preceding_text": "graph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (optional) - 3 words max for a button, 5 words max for a link]",
+            "following_text": "ting paragraph, and CTA\nThe image, CTA, and supporting paragraph are optional\nTo keep the page visually balanced, use th"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "graph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (optional) - 3 words max for a button, 5 words max for a link]  ting paragraph, and CTA\nThe image, CTA, and supporting paragraph are optional\nTo keep the page visually balanced, use th",
+            "text_after_change": "graph (300 chars max)\n\n[CTA - 3 words max] [Secondary CTA (optional) - 3 words max for a button, 5 words max for a link] ting paragraph, and CTA\nThe image, CTA, and supporting paragraph are optional\nTo keep the page visually balanced, use th"
+          },
+          "position": {
+            "start_index": 5390,
+            "end_index": 5393
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "BLOG",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 13,
+          "table_id": "table-13",
+          "table_title": "",
+          "row_index": 5,
+          "column_index": 4,
+          "column_header": "",
+          "row_header": "[col:1, ch:50][col:5, ch:100]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.lhmadvi4kovu",
+          "anchor": {
+            "preceding_text": "em in more detail. \n\nYou could use bullets, check marks, or numbers to list items.\n\nNote: Don’t overthink the componen",
+            "following_text": "blogs with a tag, please add the tag ID (a 4-digit number) which you can find on Wordpress\nYou can showcase 3-4 blog pos"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "em in more detail. \n\nYou could use bullets, check marks, or numbers to list items.\n\nNote: Don’t overthink the componen  blogs with a tag, please add the tag ID (a 4-digit number) which you can find on Wordpress\nYou can showcase 3-4 blog pos",
+            "text_after_change": "em in more detail. \n\nYou could use bullets, check marks, or numbers to list items.\n\nNote: Don’t overthink the componen blogs with a tag, please add the tag ID (a 4-digit number) which you can find on Wordpress\nYou can showcase 3-4 blog pos"
+          },
+          "position": {
+            "start_index": 5661,
+            "end_index": 5664
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "DIVIDED SECTION",
+        "heading_level": 3,
+        "in_table": true,
+        "table": {
+          "table_index": 13,
+          "table_id": "table-13",
+          "table_title": "",
+          "row_index": 6,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:5, ch:300]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.2c3939ydmxi1",
+          "anchor": {
+            "preceding_text": "the layout based on your content input.\n\nMore about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n",
+            "following_text": "own concepts or steps with a numbered list. For example, installation instructions or a description of a service. \nA max"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "              ",
+            "new_text": "       "
+          },
+          "verification": {
+            "text_before_change": "the layout based on your content input.\n\nMore about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n              own concepts or steps with a numbered list. For example, installation instructions or a description of a service. \nA max",
+            "text_after_change": "the layout based on your content input.\n\nMore about the basic text section.\n\n\n\n\nBASIC TEXT\nSection title (70 chars max)\n       own concepts or steps with a numbered list. For example, installation instructions or a description of a service. \nA max"
+          },
+          "position": {
+            "start_index": 5837,
+            "end_index": 5858
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            },
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            },
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            },
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            },
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            },
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            },
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 14
+        },
+        {
+          "id": "suggest.swgu6woyxj5g",
+          "anchor": {
+            "preceding_text": "[300 chars max each]\n\nOptional - 3 or more bullet points\n\n\n[Related logo, image or video (optional) - please add alt tex",
+            "following_text": "eal\nYou can include code snippets as a part of the steps\n\n\nTABBED SECTION\nUse this to organize sections into different t"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "[300 chars max each]\n\nOptional - 3 or more bullet points\n\n\n[Related logo, image or video (optional) - please add alt tex  eal\nYou can include code snippets as a part of the steps\n\n\nTABBED SECTION\nUse this to organize sections into different t",
+            "text_after_change": "[300 chars max each]\n\nOptional - 3 or more bullet points\n\n\n[Related logo, image or video (optional) - please add alt tex eal\nYou can include code snippets as a part of the steps\n\n\nTABBED SECTION\nUse this to organize sections into different t"
+          },
+          "position": {
+            "start_index": 5996,
+            "end_index": 5999
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "Page builder",
+        "heading_level": 1,
+        "in_table": true,
+        "table": {
+          "table_index": 14,
+          "table_id": "table-14",
+          "table_title": "",
+          "row_index": 5,
+          "column_index": 4,
+          "column_header": "",
+          "row_header": "[col:1,3,5,7, ch:100]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.swgu6woyxj5g",
+          "anchor": {
+            "preceding_text": " statements about the product or service, such as savings, performance or adoption. \n\nBest practice: Make sure every fac",
+            "following_text": "(required) - 100 characters\n\nSubheading (required) - 100 characters\n\nSubheading (required) - 100 characters\n\n[col:1,3,5,"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": " statements about the product or service, such as savings, performance or adoption. \n\nBest practice: Make sure every fac  (required) - 100 characters\n\nSubheading (required) - 100 characters\n\nSubheading (required) - 100 characters\n\n[col:1,3,5,",
+            "text_after_change": " statements about the product or service, such as savings, performance or adoption. \n\nBest practice: Make sure every fac (required) - 100 characters\n\nSubheading (required) - 100 characters\n\nSubheading (required) - 100 characters\n\n[col:1,3,5,"
+          },
+          "position": {
+            "start_index": 7860,
+            "end_index": 7863
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "Page builder",
+        "heading_level": 1,
+        "in_table": true,
+        "table": {
+          "table_index": 16,
+          "table_id": "table-16",
+          "table_title": "",
+          "row_index": 3,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:1, ch:50][col:3,5,7, ch:10]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.2c3939ydmxi1",
+          "anchor": {
+            "preceding_text": "STRUCTIONS\nUse this to share more content about your product or service. They can be the same content type (for example,",
+            "following_text": ",000+\n\n1,000,000+\n\n[col:3,5,7, ch:20]\n\n\n20 characters\n\n20 characters\n\n20 characters\n\n[col:3,5,7, ch:100]\n\n\n\nShort paragr"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "STRUCTIONS\nUse this to share more content about your product or service. They can be the same content type (for example,  ,000+\n\n1,000,000+\n\n[col:3,5,7, ch:20]\n\n\n20 characters\n\n20 characters\n\n20 characters\n\n[col:3,5,7, ch:100]\n\n\n\nShort paragr",
+            "text_after_change": "STRUCTIONS\nUse this to share more content about your product or service. They can be the same content type (for example, ,000+\n\n1,000,000+\n\n[col:3,5,7, ch:20]\n\n\n20 characters\n\n20 characters\n\n20 characters\n\n[col:3,5,7, ch:100]\n\n\n\nShort paragr"
+          },
+          "position": {
+            "start_index": 9258,
+            "end_index": 9261
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "Page builder",
+        "heading_level": 1,
+        "in_table": true,
+        "table": {
+          "table_index": 21,
+          "table_id": "table-21",
+          "table_title": "",
+          "row_index": 3,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:1, ch:65][col:5, ch:900]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.2c3939ydmxi1",
+          "anchor": {
+            "preceding_text": "uct: [Please specify the product this newsletter sign up relates to.]\n\nSupporting paragraph (optional, 300 chars max)\n\n[",
+            "following_text": "ual balance, make sure the volume of text is larger in this column than the title.\n\n\n\nImages\n\n[Logo link]\n\n\n[Logo link]\n"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "uct: [Please specify the product this newsletter sign up relates to.]\n\nSupporting paragraph (optional, 300 chars max)\n\n[  ual balance, make sure the volume of text is larger in this column than the title.\n\n\n\nImages\n\n[Logo link]\n\n\n[Logo link]\n",
+            "text_after_change": "uct: [Please specify the product this newsletter sign up relates to.]\n\nSupporting paragraph (optional, 300 chars max)\n\n[ ual balance, make sure the volume of text is larger in this column than the title.\n\n\n\nImages\n\n[Logo link]\n\n\n[Logo link]\n"
+          },
+          "position": {
+            "start_index": 11174,
+            "end_index": 11177
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "Page builder",
+        "heading_level": 1,
+        "in_table": true,
+        "table": {
+          "table_index": 22,
+          "table_id": "table-22",
+          "table_title": "",
+          "row_index": 3,
+          "column_index": 2,
+          "column_header": "",
+          "row_header": "[col:1, ch:60][col:5, ch:600]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.swgu6woyxj5g",
+          "anchor": {
+            "preceding_text": " Text\nYes / No / Price / Text\nFeature 2 (8 words max)\nYes / No / Price / Text\nYes / No / Price / Text\nFeature 3… (8 wo",
+            "following_text": "- 60 characters\n\n\n\nSupporting paragraph(s), 600 characters maximum.\n\n\n\nLogo images\n\n[Logo link]\n\n[Logo link]\n\n[Logo link"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": " Text\nYes / No / Price / Text\nFeature 2 (8 words max)\nYes / No / Price / Text\nYes / No / Price / Text\nFeature 3… (8 wo  - 60 characters\n\n\n\nSupporting paragraph(s), 600 characters maximum.\n\n\n\nLogo images\n\n[Logo link]\n\n[Logo link]\n\n[Logo link",
+            "text_after_change": " Text\nYes / No / Price / Text\nFeature 2 (8 words max)\nYes / No / Price / Text\nYes / No / Price / Text\nFeature 3… (8 wo - 60 characters\n\n\n\nSupporting paragraph(s), 600 characters maximum.\n\n\n\nLogo images\n\n[Logo link]\n\n[Logo link]\n\n[Logo link"
+          },
+          "position": {
+            "start_index": 12426,
+            "end_index": 12429
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    },
+    {
+      "location": {
+        "section": "Body",
+        "parent_heading": "Page builder",
+        "heading_level": 1,
+        "in_table": true,
+        "table": {
+          "table_index": 28,
+          "table_id": "table-28",
+          "table_title": "",
+          "row_index": 3,
+          "column_index": 6,
+          "column_header": "",
+          "row_header": "[col:1, ch:60][col:5, ch:160]"
+        },
+        "in_metadata": false
+      },
+      "suggestions": [
+        {
+          "id": "suggest.swgu6woyxj5g",
+          "anchor": {
+            "preceding_text": "the action (100 chars max)\nYou can use a few concise sentences to explain how to complete the action. (300 chars max)\n\n\n",
+            "following_text": "Summarize the first step/action, 160 characters\n\n\n\nCode snippet\n\n\n\n\n\ninsert code - \n\n\n\n\n[col:5, ch:300]\n\n\n\n\n suppo"
+          },
+          "change": {
+            "type": "replace",
+            "original_text": "  ",
+            "new_text": " "
+          },
+          "verification": {
+            "text_before_change": "the action (100 chars max)\nYou can use a few concise sentences to explain how to complete the action. (300 chars max)\n\n\n  Summarize the first step/action, 160 characters\n\n\n\nCode snippet\n\n\n\n\n\ninsert code - \n\n\n\n\n[col:5, ch:300]\n\n\n\n\n suppo",
+            "text_after_change": "the action (100 chars max)\nYou can use a few concise sentences to explain how to complete the action. (300 chars max)\n\n\n Summarize the first step/action, 160 characters\n\n\n\nCode snippet\n\n\n\n\n\ninsert code - \n\n\n\n\n[col:5, ch:300]\n\n\n\n\n suppo"
+          },
+          "position": {
+            "start_index": 16171,
+            "end_index": 16174
+          },
+          "atomic_changes": [
+            {
+              "type": "insert",
+              "new_text": " "
+            },
+            {
+              "type": "delete",
+              "original_text": "  "
+            }
+          ],
+          "atomic_count": 2
+        }
+      ]
+    }
+  ],
+  "comments": null
+}
